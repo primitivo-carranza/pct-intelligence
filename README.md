@@ -1,0 +1,2 @@
+# pct-intelligence
+Inteligencia competitiva
