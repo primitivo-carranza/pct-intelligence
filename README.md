@@ -1,21 +1,21 @@
 # PCT Intelligence · Engineering Resources
 
-Aplicación web en `index.html`, con registro de proyectos industriales, señales, competidores, clientes, oportunidades, fuentes y revisión semanal. Los registros privados se guardan **solo en localStorage** del navegador.
+Aplicación estática publicada en https://primitivo-carranza.github.io/pct-intelligence/ .
 
-## Publicar
+## Datos y sincronización
 
-1. Revisar los archivos y poner el repositorio **público** en **Settings → General → Danger Zone → Change repository visibility**; publicar únicamente contenidos que puedan ser públicos.
-2. Abrir **Settings → Pages**, seleccionar **GitHub Actions** en **Build and deployment** (el flujo `.github/workflows/deploy-pages.yml` ya existe).
-3. URL prevista después del primer despliegue exitoso: https://primitivo-carranza.github.io/pct-intelligence/
+`data/weekly-feed.json` contiene investigación pública compartida. `sync.js` valida y fusiona proyectos, señales, actores, empresas prospectadas, oportunidades, fuentes y revisiones al abrir la aplicación o volver a la pestaña. Configuración permite actualizar manualmente.
 
-## Agentes
+Los registros manuales siguen en localStorage (`pct-intelligence-v1`), no se publican ni se sustituyen. Los registros públicos usan identificadores estables y se actualizan sin duplicarse. Al eliminar uno se conserva una marca local para que no reaparezca en la próxima consulta. La importación JSON fusiona registros y conserva una copia previa local; exportar periódicamente la copia completa.
 
-Feed de solo lectura: `data/weekly-feed.json`. La publicación web por sí misma **no crea una ChatGPT Skill** ni una API de escritura. Para que un agente actualice información compartida se necesita un backend autenticado o commits automatizados a GitHub.
+## Actualización por agente
 
-## Privacidad
+Actualizar el feed en la rama main mediante GitHub autenticado; el flujo de Pages publica cada cambio. Conservar IDs, registros previos, fuentes, fechas y separación entre proyectos confirmados e hipótesis comerciales. Ejecutar `node tests/sync.test.cjs` antes de publicar. No incluir contactos personales, correos, precios internos, notas de solvencia o estrategias privadas en este repositorio público.
 
-No subir información comercial confidencial (contactos personales, ofertas, precios internos) a archivos públicos. Los registros introducidos en el navegador no se sincronizan entre dispositivos.
+La revisión y el email se ejecutan desde la tarea programada de Codex/ChatGPT, no desde JavaScript del navegador. Su estado se confirma en la tarea; esta web no realiza envíos de correo.
 
-## Estado
+## Carga inicial y límites
 
-Esta versión del repositorio es una **base web operativa** con entrada y exportación/importación JSON. El paquete original descargable en ChatGPT tiene otros componentes pendientes de incorporar al repositorio. No contiene aún el histórico completo de proyectos detectados.
+La base pública incluye cuatro proyectos de obra en Alemania y cinco señales contrastadas en páginas de promotores y comunicados de contratistas. Las fechas históricas se distinguen de la fecha de comprobación. No representa el histórico completo de PCT.
+
+Los datos históricos privados se importan localmente en Configuración y nunca se suben al repositorio. Las oportunidades son hipótesis de investigación, no licitaciones abiertas ni contratos. Los actores pueden ser clientes, socios o competidores según alcance.

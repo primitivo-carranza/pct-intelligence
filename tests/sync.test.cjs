@@ -1,0 +1,34 @@
+const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const {keys,merge,normalize,dismiss} = require('../sync.js');
+const empty = () => Object.fromEntries(keys.map(k => [k,[]]));
+const feed = JSON.parse(fs.readFileSync(require('node:path').join(__dirname,'../data/weekly-feed.json')));
+const first = merge(empty(),feed);
+for (const key of keys) assert.equal(first.state[key].length,feed[key].length);
+const again = merge(first.state,feed);
+assert.equal(again.stats.added,0);
+assert.equal(again.stats.updated,0);
+const key='projects', record=feed.projects[0];
+const modified=structuredClone(feed); modified.projects[0].phase='Nuevo hito';
+const updated=merge(first.state,modified);
+assert.equal(updated.stats.updated,1);
+assert.equal(updated.state.projects[0].phase,'Nuevo hito');
+const local=empty(); local.projects.push({...record,phase:'Nota manual',internal:'Privado'});
+const preserved=merge(local,feed);
+assert.equal(preserved.state.projects[0].phase,'Nota manual');
+assert.equal(preserved.state.projects[0].internal,'Privado');
+assert.equal(local.projects.length,1); // no mutation of input
+const removed=dismiss(first.state,key,0);
+assert.equal(merge(removed,feed).state.projects.length,feed.projects.length-1);
+const importState=merge(first.state,{projects:[{name:'Local nuevo',country:'España'}]},false);
+assert.equal(importState.state.projects.length,feed.projects.length+1);
+assert.equal(importState.state.projects.at(-1)._feed,undefined);
+assert.throws(()=>normalize({projects:[{country:'España'}]}));
+assert.throws(()=>merge(first.state,{projects:'invalid'}));
+assert.equal(first.state.projects[0].phase,record.phase);
+const legacy=merge(empty(),{signals:[{title:'Histórica',url:'https://example.com'}]});
+assert.equal(legacy.state.signals[0].name,'Histórica');
+for (const key of keys) assert.equal(new Set(feed[key].map(x=>x.id)).size,feed[key].length);
+// Public feed contains no private contact data or internal business scoring.
+assert.ok(!JSON.stringify(feed).includes('primitivo.carranza@'));
+console.log('Sync checks passed: all sections, idempotence, updates, local preservation, deletion, import, validation, legacy feed.');

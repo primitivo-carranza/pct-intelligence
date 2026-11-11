@@ -1,1 +1,257 @@
-{"generatedAt":"","methodology":"Fuentes públicas y señales pendientes de verificación","signals":[]}
+{
+  "projects": [
+    {
+      "name": "A-Nord",
+      "country": "Alemania",
+      "sector": "Redes eléctricas HVDC",
+      "capex": "",
+      "owner": "Amprion",
+      "epc": "EPC por paquete; no confirmado en la fuente consultada",
+      "phase": "Construcción; sección NDS2 con canalización civil completada según comunicado 07/04/2026",
+      "source": "https://www.amprion.net/Presse/Presse-Detailseite_93057.html",
+      "verifiedAt": "2026-11-11",
+      "basis": "Fuente pública de promotor. Fechas previstas no equivalen a contratos abiertos.",
+      "evidence": "https://www.amprion.net/Presse/Presse-Detailseite_93057.html",
+      "id": "projects-8e06f0629c082763"
+    },
+    {
+      "name": "DolWin4",
+      "country": "Alemania",
+      "sector": "Conexión offshore HVDC",
+      "capex": "",
+      "owner": "Amprion Offshore",
+      "epc": "No confirmado en la fuente consultada",
+      "phase": "Construcción; puesta en marcha prevista a finales de 2028",
+      "source": "https://www.amprion.net/Netzausbau/Unsere-Projekte/DolWin4-und-BorWin4/Projektfortschritt.html",
+      "verifiedAt": "2026-11-11",
+      "basis": "Fuente pública de promotor. Fechas previstas no equivalen a contratos abiertos.",
+      "evidence": "https://www.amprion.net/Netzausbau/Unsere-Projekte/DolWin4-und-BorWin4/Projektfortschritt.html",
+      "id": "projects-48b6459fa7ad7a60"
+    },
+    {
+      "name": "BorWin4",
+      "country": "Alemania",
+      "sector": "Conexión offshore HVDC",
+      "capex": "",
+      "owner": "Amprion Offshore",
+      "epc": "No confirmado en la fuente consultada",
+      "phase": "Construcción; puesta en marcha prevista a finales de 2028",
+      "source": "https://www.amprion.net/Netzausbau/Unsere-Projekte/DolWin4-und-BorWin4/Projektfortschritt.html",
+      "verifiedAt": "2026-11-11",
+      "basis": "Fuente pública de promotor. Fechas previstas no equivalen a contratos abiertos.",
+      "evidence": "https://www.amprion.net/Netzausbau/Unsere-Projekte/DolWin4-und-BorWin4/Projektfortschritt.html",
+      "id": "projects-99e0483df9cbd688"
+    },
+    {
+      "name": "Terminal LNG terrestre Brunsbüttel",
+      "country": "Alemania",
+      "sector": "Gas / LNG",
+      "capex": "",
+      "owner": "German LNG Terminal GmbH",
+      "epc": "CS Gas North (Cobra / Sener); fuente del contratista enlazada en evidencia",
+      "phase": "En construcción; operación prevista en 2027",
+      "source": "https://germanlng.com/unternehmensprofil/",
+      "verifiedAt": "2026-11-11",
+      "basis": "Fuente pública de promotor. Fechas previstas no equivalen a contratos abiertos.",
+      "evidence": "https://www.ballast-nedam.com/news/2025/construction-contract-for-sea-jetty-brunsbuettel-germany",
+      "id": "projects-3504b7f2095eb1d9"
+    }
+  ],
+  "signals": [
+    {
+      "name": "TenneT Germany mantiene un plan de expansión de red de unos 67.000 M€ para 2026–2030",
+      "country": "Alemania",
+      "sector": "Redes eléctricas",
+      "kind": "Plan de inversión; no licitación",
+      "date": "",
+      "source": "https://www.tennet-ir.eu/en",
+      "status": "Verificado el 11/11/2026; página sin fecha de noticia",
+      "impact": "Vigilar paquetes de ejecución y compras. El plan agregado no es mercado adjudicable a PCT.",
+      "id": "signals-089aad46f6a47ef7"
+    },
+    {
+      "name": "Amprion: finalizada la canalización civil del tramo NDS2 de A-Nord",
+      "country": "Alemania",
+      "sector": "Redes eléctricas",
+      "kind": "Hito de construcción",
+      "date": "2026-04-07",
+      "source": "https://www.amprion.net/Presse/Presse-Detailseite_93057.html",
+      "status": "Noticia histórica verificada el 11/11/2026",
+      "impact": "Actualizar fase del tramo; no extrapolar finalización al proyecto completo.",
+      "id": "signals-a66da1ec22e88b46"
+    },
+    {
+      "name": "DolWin4 y BorWin4: obras de conexión y convertidores en ejecución",
+      "country": "Alemania",
+      "sector": "Conexión offshore",
+      "kind": "Seguimiento de proyecto",
+      "date": "",
+      "source": "https://www.amprion.net/Netzausbau/Unsere-Projekte/DolWin4-und-BorWin4/Projektfortschritt.html",
+      "status": "Verificado el 11/11/2026; página de estado sin fecha de noticia",
+      "impact": "Revisar calendario y contratistas de montaje y pruebas. Previsión de puesta en marcha: finales de 2028.",
+      "id": "signals-0519567fa7a8ea80"
+    },
+    {
+      "name": "Brunsbüttel: el promotor sitúa el inicio de operación del terminal terrestre en 2027",
+      "country": "Alemania",
+      "sector": "Gas / LNG",
+      "kind": "Calendario de proyecto",
+      "date": "",
+      "source": "https://germanlng.com/unternehmensprofil/",
+      "status": "Verificado el 11/11/2026; página sin fecha de noticia",
+      "impact": "Cualificar necesidades de montaje, pruebas y puesta en servicio; demanda para PCT sin confirmar.",
+      "id": "signals-6ad9e34ff8276408"
+    },
+    {
+      "name": "Brunsbüttel: Nikkiso anuncia contrato de suministro de bombas con CS Gas North",
+      "country": "Alemania",
+      "sector": "Gas / LNG",
+      "kind": "Adjudicación de suministro",
+      "date": "2026-09-01",
+      "source": "https://nikkisoceig.com/news/nikkiso-to-provide-pumps-for-german-lng-import-terminal",
+      "status": "Noticia histórica verificada el 11/11/2026",
+      "impact": "Evidencia de avance de compras. No acredita una contratación de servicios o personal por PCT.",
+      "id": "signals-42b331c6f19bfdab"
+    }
+  ],
+  "competitors": [],
+  "clients": [
+    {
+      "name": "Amprion",
+      "country": "Alemania",
+      "sector": "Redes eléctricas",
+      "contact": "Compras corporativas; por cualificar",
+      "source": "https://www.amprion.net/",
+      "status": "Cuenta objetivo potencial, sin relación comercial acreditada",
+      "id": "clients-4f4e9622b244ab38"
+    },
+    {
+      "name": "TenneT Germany",
+      "country": "Alemania",
+      "sector": "Redes eléctricas",
+      "contact": "Compras corporativas; por cualificar",
+      "source": "https://www.tennet-ir.eu/en",
+      "status": "Cuenta objetivo potencial, sin relación comercial acreditada",
+      "id": "clients-757e958b31e16953"
+    },
+    {
+      "name": "German LNG Terminal GmbH",
+      "country": "Alemania",
+      "sector": "Gas / LNG",
+      "contact": "Compras corporativas; por cualificar",
+      "source": "https://germanlng.com/unternehmensprofil/",
+      "status": "Cuenta objetivo potencial, sin relación comercial acreditada",
+      "id": "clients-e9cc11972f5d0366"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "Cualificar paquetes de A-Nord",
+      "country": "Alemania",
+      "client": "Amprion",
+      "value": "",
+      "phase": "Hipótesis de prospección; no es licitación ni contrato confirmado",
+      "owner": "Por asignar",
+      "next": "Revisar paquetes pendientes, contratistas y requisitos de homologación antes de contacto comercial.",
+      "source": "https://www.amprion.net/Presse/Presse-Detailseite_93057.html",
+      "verifiedAt": "2026-11-11",
+      "id": "opportunities-7ccd0c79e9ca48dd"
+    },
+    {
+      "name": "Cualificar paquetes de DolWin4",
+      "country": "Alemania",
+      "client": "Amprion Offshore",
+      "value": "",
+      "phase": "Hipótesis de prospección; no es licitación ni contrato confirmado",
+      "owner": "Por asignar",
+      "next": "Revisar paquetes pendientes, contratistas y requisitos de homologación antes de contacto comercial.",
+      "source": "https://www.amprion.net/Netzausbau/Unsere-Projekte/DolWin4-und-BorWin4/Projektfortschritt.html",
+      "verifiedAt": "2026-11-11",
+      "id": "opportunities-e743480026790450"
+    },
+    {
+      "name": "Cualificar paquetes de BorWin4",
+      "country": "Alemania",
+      "client": "Amprion Offshore",
+      "value": "",
+      "phase": "Hipótesis de prospección; no es licitación ni contrato confirmado",
+      "owner": "Por asignar",
+      "next": "Revisar paquetes pendientes, contratistas y requisitos de homologación antes de contacto comercial.",
+      "source": "https://www.amprion.net/Netzausbau/Unsere-Projekte/DolWin4-und-BorWin4/Projektfortschritt.html",
+      "verifiedAt": "2026-11-11",
+      "id": "opportunities-18974e1d436d435f"
+    },
+    {
+      "name": "Cualificar paquetes de Terminal LNG terrestre Brunsbüttel",
+      "country": "Alemania",
+      "client": "German LNG Terminal GmbH",
+      "value": "",
+      "phase": "Hipótesis de prospección; no es licitación ni contrato confirmado",
+      "owner": "Por asignar",
+      "next": "Revisar paquetes pendientes, contratistas y requisitos de homologación antes de contacto comercial.",
+      "source": "https://germanlng.com/unternehmensprofil/",
+      "verifiedAt": "2026-11-11",
+      "id": "opportunities-1b868986d9072a15"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Amprion · proyectos y comunicados",
+      "country": "Alemania",
+      "kind": "Promotor / operador",
+      "source": "https://www.amprion.net/",
+      "frequency": "Semanal",
+      "id": "sources-87b3100cc5afffe5"
+    },
+    {
+      "name": "TenneT Germany · proyectos y comunicados",
+      "country": "Alemania",
+      "kind": "Promotor / operador",
+      "source": "https://www.tennet-ir.eu/en",
+      "frequency": "Semanal",
+      "id": "sources-c4ea99b6552a4e13"
+    },
+    {
+      "name": "German LNG Terminal GmbH · proyectos y comunicados",
+      "country": "Alemania",
+      "kind": "Promotor / operador",
+      "source": "https://germanlng.com/unternehmensprofil/",
+      "frequency": "Semanal",
+      "id": "sources-e4ff8e789e20c0b8"
+    },
+    {
+      "name": "IEA · informes de energía",
+      "country": "Internacional",
+      "kind": "Organismo sectorial",
+      "source": "https://www.iea.org/reports",
+      "frequency": "Semanal",
+      "status": "Fuente de vigilancia; consultar y verificar cada noticia antes de incorporarla",
+      "id": "sources-db8599a2da098fa9"
+    },
+    {
+      "name": "TED · licitaciones europeas",
+      "country": "Unión Europea",
+      "kind": "Contratación pública",
+      "source": "https://ted.europa.eu/",
+      "frequency": "Semanal",
+      "status": "Fuente de vigilancia; consultar y verificar cada noticia antes de incorporarla",
+      "id": "sources-7a44b0e645ddeace"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "reviews-public-baseline-2026-11-11",
+      "name": "Base pública verificada · 11/11/2026",
+      "summary": "Cuatro proyectos de obra en Alemania y cinco señales de seguimiento, con enlaces a fuentes públicas. Las fechas históricas se distinguen de la fecha de comprobación. No es un boletín de novedades de la semana.",
+      "actions": "Consultar fuentes originales y paquetes de cada proyecto; oportunidades de contratación sin confirmar.",
+      "owner": "Vigilancia pública",
+      "source": "https://primitivo-carranza.github.io/pct-intelligence/",
+      "coverage": "Base pública inicial: 4 proyectos de obra en Alemania y 5 señales contrastadas. Los registros históricos recuperados de archivos privados se facilitan por separado para importación local. Histórico completo de proyectos por países pendiente de recuperar."
+    }
+  ],
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-11",
+  "methodology": "Solo fuentes públicas contrastadas directamente: promotores y comunicados de contratistas. No contiene datos de archivos privados ni contactos personales.",
+  "coverage": "Base pública inicial: 4 proyectos de obra en Alemania y 5 señales contrastadas. Los registros históricos recuperados de archivos privados se facilitan por separado para importación local. Histórico completo de proyectos por países pendiente de recuperar.",
+  "historyStatus": "Base pública; no representa el histórico completo de PCT."
+}
