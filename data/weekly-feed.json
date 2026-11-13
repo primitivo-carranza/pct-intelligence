@@ -251,7 +251,7 @@
   ],
   "schemaVersion": 2,
   "generatedAt": "2026-11-13",
-  "methodology": "Solo fuentes públicas contrastadas directamente: promotores y comunicados de contratistas. No contiene datos de archivos privados ni contactos personales.",
-  "coverage": "Radar construcción: cuatro proyectos de obra y cinco señales contrastadas; histórico completo pendiente.",
+  "methodology": "Radar de construcción exclusivamente: proyectos de obra, promotores, contratistas, licitaciones, señales de mercado y oportunidades comerciales. No incorporar IA ni robótica.",
+  "coverage": "Radar Construcción independiente: proyectos industriales e infraestructuras. Sin registros de IA ni robótica.",
   "historyStatus": "Base pública; no representa el histórico completo de PCT."
 }
