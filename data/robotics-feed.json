@@ -422,7 +422,14 @@
       "priority": "Muy alta",
       "source": "https://www.tuhh.de",
       "opportunity": "Colaboración I+D, tesis, socios técnicos",
-      "status": "Candidato; verificar interlocutor"
+      "status": "Candidato; verificar interlocutor",
+      "contactStatus": "Sin contactar",
+      "nextAction": "Identificar responsable y línea de colaboración",
+      "nextActionDate": "",
+      "lastContact": "",
+      "meetingNotes": "",
+      "projectIdeas": "",
+      "owner": ""
     },
     {
       "id": "inst-hh-1",
@@ -434,7 +441,14 @@
       "priority": "Muy alta",
       "source": "https://tams.informatik.uni-hamburg.de",
       "opportunity": "Desarrollo ROS, navegación y percepción",
-      "status": "Candidato; verificar interlocutor"
+      "status": "Candidato; verificar interlocutor",
+      "contactStatus": "Sin contactar",
+      "nextAction": "Identificar responsable y línea de colaboración",
+      "nextActionDate": "",
+      "lastContact": "",
+      "meetingNotes": "",
+      "projectIdeas": "",
+      "owner": ""
     },
     {
       "id": "inst-hh-2",
@@ -446,7 +460,14 @@
       "priority": "Alta",
       "source": "https://www.tuhh.de",
       "opportunity": "Explorar colaboración multidisciplinar",
-      "status": "Candidato; verificar interlocutor"
+      "status": "Candidato; verificar interlocutor",
+      "contactStatus": "Sin contactar",
+      "nextAction": "Identificar responsable y línea de colaboración",
+      "nextActionDate": "",
+      "lastContact": "",
+      "meetingNotes": "",
+      "projectIdeas": "",
+      "owner": ""
     },
     {
       "id": "inst-hh-3",
@@ -458,7 +479,14 @@
       "priority": "Alta",
       "source": "https://www.cml.fraunhofer.de",
       "opportunity": "Pilotos y transferencia tecnológica",
-      "status": "Candidato; verificar interlocutor"
+      "status": "Candidato; verificar interlocutor",
+      "contactStatus": "Sin contactar",
+      "nextAction": "Identificar responsable y línea de colaboración",
+      "nextActionDate": "",
+      "lastContact": "",
+      "meetingNotes": "",
+      "projectIdeas": "",
+      "owner": ""
     },
     {
       "id": "inst-hh-4",
@@ -470,7 +498,14 @@
       "priority": "Media",
       "source": "https://www.iapt.fraunhofer.de",
       "opportunity": "Integración y prototipos",
-      "status": "Candidato; verificar interlocutor"
+      "status": "Candidato; verificar interlocutor",
+      "contactStatus": "Sin contactar",
+      "nextAction": "Identificar responsable y línea de colaboración",
+      "nextActionDate": "",
+      "lastContact": "",
+      "meetingNotes": "",
+      "projectIdeas": "",
+      "owner": ""
     },
     {
       "id": "inst-hh-5",
@@ -482,7 +517,14 @@
       "priority": "Media",
       "source": "https://www.tuhh.de",
       "opportunity": "Captación de estudiantes",
-      "status": "Candidato; verificar interlocutor"
+      "status": "Candidato; verificar interlocutor",
+      "contactStatus": "Sin contactar",
+      "nextAction": "Identificar responsable y línea de colaboración",
+      "nextActionDate": "",
+      "lastContact": "",
+      "meetingNotes": "",
+      "projectIdeas": "",
+      "owner": ""
     },
     {
       "id": "inst-hh-6",
@@ -494,7 +536,14 @@
       "priority": "Alta",
       "source": "",
       "opportunity": "Contactos y eventos",
-      "status": "Candidato; verificar interlocutor"
+      "status": "Candidato; verificar interlocutor",
+      "contactStatus": "Sin contactar",
+      "nextAction": "Identificar responsable y línea de colaboración",
+      "nextActionDate": "",
+      "lastContact": "",
+      "meetingNotes": "",
+      "projectIdeas": "",
+      "owner": ""
     }
   ],
   "people": [
@@ -508,7 +557,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Socio tecnológico / colaboración I+D",
       "source": "https://www.tuhh.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-1",
@@ -520,7 +578,16 @@
       "relationship": "Contacto previo en foro Cámara de Comercio–TUHH; reunión pendiente de confirmación",
       "collaboration": "Socio tecnológico / colaboración I+D",
       "source": "https://www.tuhh.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Reunión pendiente",
+      "lastContact": "",
+      "nextAction": "Confirmar reunión para explorar colaboración",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-2",
@@ -532,7 +599,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://www.tuhh.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-3",
@@ -544,7 +620,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://www.tuhh.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-4",
@@ -556,7 +641,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://www.tuhh.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-5",
@@ -568,7 +662,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://www.tuhh.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-6",
@@ -580,7 +683,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://www.tuhh.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-7",
@@ -592,7 +704,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://www.tuhh.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-8",
@@ -604,7 +725,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://www.tuhh.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-9",
@@ -616,7 +746,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://www.tuhh.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-10",
@@ -628,7 +767,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://www.tuhh.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-11",
@@ -640,7 +788,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://www.tuhh.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-12",
@@ -652,7 +809,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Socio tecnológico / colaboración I+D",
       "source": "https://tams.informatik.uni-hamburg.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-13",
@@ -664,7 +830,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Socio tecnológico / colaboración I+D",
       "source": "https://tams.informatik.uni-hamburg.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-14",
@@ -676,7 +851,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://tams.informatik.uni-hamburg.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-15",
@@ -688,7 +872,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://tams.informatik.uni-hamburg.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-16",
@@ -700,7 +893,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://tams.informatik.uni-hamburg.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-17",
@@ -712,7 +914,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://tams.informatik.uni-hamburg.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-18",
@@ -724,7 +935,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://tams.informatik.uni-hamburg.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-19",
@@ -736,7 +956,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://tams.informatik.uni-hamburg.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-20",
@@ -748,7 +977,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://tams.informatik.uni-hamburg.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-21",
@@ -760,7 +998,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://www.tuhh.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-22",
@@ -772,7 +1019,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://www.tuhh.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-23",
@@ -784,7 +1040,16 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://www.tuhh.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
     },
     {
       "id": "person-hh-24",
@@ -796,7 +1061,266 @@
       "relationship": "Sin contacto registrado",
       "collaboration": "Investigación / contratación / tesis",
       "source": "https://www.tuhh.de",
-      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar"
+      "status": "Perfil identificado en investigación previa; afiliación/cargo actual por verificar",
+      "contactStatus": "Sin contactar",
+      "lastContact": "",
+      "nextAction": "Localizar contacto institucional y evaluar encaje",
+      "nextActionDate": "",
+      "meetingNotes": "",
+      "publications": "",
+      "projectIdeas": "",
+      "owner": "",
+      "email": ""
+    }
+  ],
+  "events": [
+    {
+      "id": "event-0",
+      "name": "automatica",
+      "location": "Múnich, Alemania",
+      "specialty": "Robótica y automatización industrial",
+      "frequency": "Bienal",
+      "source": "https://automatica-munich.com",
+      "interest": "Integradores, plataformas móviles, sensores",
+      "priority": "Alta",
+      "nextDate": "Pendiente de confirmar",
+      "attendance": "Por evaluar",
+      "notes": ""
+    },
+    {
+      "id": "event-1",
+      "name": "HANNOVER MESSE",
+      "location": "Hannover, Alemania",
+      "specialty": "Industria 4.0, IA industrial y robótica",
+      "frequency": "Anual",
+      "source": "https://www.hannovermesse.de",
+      "interest": "Alianzas tecnológicas y aplicaciones industriales",
+      "priority": "Muy alta",
+      "nextDate": "Pendiente de confirmar",
+      "attendance": "Por evaluar",
+      "notes": ""
+    },
+    {
+      "id": "event-2",
+      "name": "bauma",
+      "location": "Múnich, Alemania",
+      "specialty": "Maquinaria y digitalización de construcción",
+      "frequency": "Trienal",
+      "source": "https://bauma.de",
+      "interest": "Robots y automatización de obra",
+      "priority": "Muy alta",
+      "nextDate": "Pendiente de confirmar",
+      "attendance": "Por evaluar",
+      "notes": ""
+    },
+    {
+      "id": "event-3",
+      "name": "INTERGEO",
+      "location": "Alemania (sede variable)",
+      "specialty": "Geoespacial, escaneo 3D, gemelos digitales",
+      "frequency": "Anual",
+      "source": "https://www.intergeo.de",
+      "interest": "Mapeo, LiDAR y seguimiento de obra",
+      "priority": "Alta",
+      "nextDate": "Pendiente de confirmar",
+      "attendance": "Por evaluar",
+      "notes": ""
+    },
+    {
+      "id": "event-4",
+      "name": "ROSCon",
+      "location": "Internacional (sede variable)",
+      "specialty": "ROS y software robótico abierto",
+      "frequency": "Anual",
+      "source": "https://roscon.ros.org",
+      "interest": "Talento y arquitectura software",
+      "priority": "Muy alta",
+      "nextDate": "Pendiente de confirmar",
+      "attendance": "Por evaluar",
+      "notes": ""
+    },
+    {
+      "id": "event-5",
+      "name": "ICRA",
+      "location": "Internacional (sede variable)",
+      "specialty": "Investigación en robótica y automatización",
+      "frequency": "Anual",
+      "source": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
+      "interest": "Investigación y socios",
+      "priority": "Alta",
+      "nextDate": "Pendiente de confirmar",
+      "attendance": "Por evaluar",
+      "notes": ""
+    },
+    {
+      "id": "event-6",
+      "name": "IROS",
+      "location": "Internacional (sede variable)",
+      "specialty": "Robots y sistemas inteligentes",
+      "frequency": "Anual",
+      "source": "https://www.iros.org",
+      "interest": "Percepción y autonomía",
+      "priority": "Alta",
+      "nextDate": "Pendiente de confirmar",
+      "attendance": "Por evaluar",
+      "notes": ""
+    },
+    {
+      "id": "event-7",
+      "name": "BIM World MUNICH",
+      "location": "Múnich, Alemania",
+      "specialty": "BIM, construcción digital y gemelos digitales",
+      "frequency": "Anual",
+      "source": "https://www.bim-world.de",
+      "interest": "Integración de inspecciones con BIM",
+      "priority": "Alta",
+      "nextDate": "Pendiente de confirmar",
+      "attendance": "Por evaluar",
+      "notes": ""
+    }
+  ],
+  "journals": [
+    {
+      "id": "journal-0",
+      "name": "Automation in Construction",
+      "publisher": "Elsevier",
+      "specialty": "IA, automatización y robótica de construcción",
+      "priority": "Muy alta",
+      "source": "https://www.sciencedirect.com/journal/automation-in-construction",
+      "review": "Mensual",
+      "notes": "Fuente candidata para vigilancia bibliográfica"
+    },
+    {
+      "id": "journal-1",
+      "name": "Advanced Engineering Informatics",
+      "publisher": "Elsevier",
+      "specialty": "IA, datos y sistemas digitales en ingeniería",
+      "priority": "Muy alta",
+      "source": "https://www.sciencedirect.com/journal/advanced-engineering-informatics",
+      "review": "Mensual",
+      "notes": "Fuente candidata para vigilancia bibliográfica"
+    },
+    {
+      "id": "journal-2",
+      "name": "Journal of Computing in Civil Engineering",
+      "publisher": "ASCE",
+      "specialty": "Computación y automatización en ingeniería civil",
+      "priority": "Muy alta",
+      "source": "https://ascelibrary.org/journal/jccee5",
+      "review": "Mensual",
+      "notes": "Fuente candidata para vigilancia bibliográfica"
+    },
+    {
+      "id": "journal-3",
+      "name": "Construction Robotics",
+      "publisher": "Springer",
+      "specialty": "Robots y automatización de construcción",
+      "priority": "Muy alta",
+      "source": "https://link.springer.com/journal/41693",
+      "review": "Mensual",
+      "notes": "Fuente candidata para vigilancia bibliográfica"
+    },
+    {
+      "id": "journal-4",
+      "name": "Robotics and Autonomous Systems",
+      "publisher": "Elsevier",
+      "specialty": "Robótica autónoma, navegación y percepción",
+      "priority": "Alta",
+      "source": "https://www.sciencedirect.com/journal/robotics-and-autonomous-systems",
+      "review": "Mensual",
+      "notes": "Fuente candidata para vigilancia bibliográfica"
+    },
+    {
+      "id": "journal-5",
+      "name": "IEEE Robotics and Automation Letters",
+      "publisher": "IEEE",
+      "specialty": "Investigación reciente en robótica",
+      "priority": "Alta",
+      "source": "https://www.ieee-ras.org/publications/ra-l",
+      "review": "Mensual",
+      "notes": "Fuente candidata para vigilancia bibliográfica"
+    },
+    {
+      "id": "journal-6",
+      "name": "Computer-Aided Civil and Infrastructure Engineering",
+      "publisher": "Wiley",
+      "specialty": "IA e informática para infraestructuras",
+      "priority": "Alta",
+      "source": "https://onlinelibrary.wiley.com/journal/14678667",
+      "review": "Mensual",
+      "notes": "Fuente candidata para vigilancia bibliográfica"
+    },
+    {
+      "id": "journal-7",
+      "name": "Engineering, Construction and Architectural Management",
+      "publisher": "Emerald",
+      "specialty": "Gestión y digitalización de proyectos",
+      "priority": "Media",
+      "source": "https://www.emerald.com/insight/publication/issn/0969-9988",
+      "review": "Mensual",
+      "notes": "Fuente candidata para vigilancia bibliográfica"
+    }
+  ],
+  "books": [
+    {
+      "id": "book-0",
+      "name": "Springer Handbook of Robotics",
+      "authors": "Bruno Siciliano; Oussama Khatib (eds.)",
+      "publisher": "Springer",
+      "specialty": "Robótica: fundamentos, sensores y autonomía",
+      "priority": "Muy alta",
+      "source": "https://link.springer.com/book/10.1007/978-3-319-32552-1",
+      "notes": "Bibliografía técnica de referencia"
+    },
+    {
+      "id": "book-1",
+      "name": "Probabilistic Robotics",
+      "authors": "Sebastian Thrun; Wolfram Burgard; Dieter Fox",
+      "publisher": "MIT Press",
+      "specialty": "Localización, SLAM y navegación",
+      "priority": "Muy alta",
+      "source": "https://mitpress.mit.edu/9780262201629/probabilistic-robotics/",
+      "notes": "Bibliografía técnica de referencia"
+    },
+    {
+      "id": "book-2",
+      "name": "Modern Robotics: Mechanics, Planning, and Control",
+      "authors": "Kevin M. Lynch; Frank C. Park",
+      "publisher": "Cambridge University Press",
+      "specialty": "Cinemática, control y planificación",
+      "priority": "Alta",
+      "source": "https://modernrobotics.northwestern.edu/",
+      "notes": "Bibliografía técnica de referencia"
+    },
+    {
+      "id": "book-3",
+      "name": "Planning Algorithms",
+      "authors": "Steven M. LaValle",
+      "publisher": "Cambridge University Press",
+      "specialty": "Planificación de movimiento y autonomía",
+      "priority": "Alta",
+      "source": "https://lavalle.pl/planning/",
+      "notes": "Bibliografía técnica de referencia"
+    },
+    {
+      "id": "book-4",
+      "name": "Deep Learning",
+      "authors": "Ian Goodfellow; Yoshua Bengio; Aaron Courville",
+      "publisher": "MIT Press",
+      "specialty": "Fundamentos de aprendizaje profundo",
+      "priority": "Alta",
+      "source": "https://www.deeplearningbook.org/",
+      "notes": "Bibliografía técnica de referencia"
+    },
+    {
+      "id": "book-5",
+      "name": "Artificial Intelligence: A Modern Approach",
+      "authors": "Stuart Russell; Peter Norvig",
+      "publisher": "Pearson",
+      "specialty": "Arquitecturas y fundamentos de IA",
+      "priority": "Alta",
+      "source": "https://aima.cs.berkeley.edu/",
+      "notes": "Bibliografía técnica de referencia"
     }
   ]
 }
