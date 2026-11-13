@@ -114,7 +114,296 @@
       "id": "signals-42b331c6f19bfdab"
     }
   ],
-  "competitors": [],
+  "competitors": [
+    {
+      "id": "robotics-fieldai",
+      "name": "FieldAI",
+      "country": "EE. UU.",
+      "specialty": "IA de navegación autónoma",
+      "source": "https://fieldai.com",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Muy alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Muy alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-titan-robotics",
+      "name": "Titan Robotics",
+      "country": "Reino Unido",
+      "specialty": "Orquestación multimarca HoloLab",
+      "source": "https://titan-robot.com",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Muy alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Muy alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-aurmanda",
+      "name": "Aurmanda",
+      "country": "Canadá",
+      "specialty": "TogetherOS integración de agentes, robots y sensores",
+      "source": "https://aurmada.com",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Muy alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Muy alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-deep-safety",
+      "name": "Deep Safety",
+      "country": "Alemania",
+      "specialty": "Percepción y seguridad de robots",
+      "source": "https://deepsafety.ai",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Muy alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Muy alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-spatialflo",
+      "name": "SpatialFlo",
+      "country": "Canadá",
+      "specialty": "Posicionamiento espacial 6DoF",
+      "source": "https://spatialflo.ai",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-agibot",
+      "name": "AGIBOT",
+      "country": "China",
+      "specialty": "Humanoides y cuadrúpedos",
+      "source": "https://agibot.com",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-limx-dynamics",
+      "name": "LimX Dynamics",
+      "country": "China",
+      "specialty": "Robots modulares y humanoides",
+      "source": "https://limxdynamics.com",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-si-robotics",
+      "name": "SI Robotics",
+      "country": "Polonia",
+      "specialty": "JOULE robot móvil manipulador",
+      "source": "https://sirobotics.eu",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-hyperever",
+      "name": "Hyperever",
+      "country": "Turquía",
+      "specialty": "Proteo cuadrúpedo",
+      "source": "https://hyperever.com",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-uncharted-ai",
+      "name": "Uncharted AI",
+      "country": "India",
+      "specialty": "Robots de exploración sin GPS",
+      "source": "https://uncharted-ai.com",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-anybotics",
+      "name": "ANYbotics",
+      "country": "Suiza",
+      "specialty": "ANYmal inspección industrial",
+      "source": "https://www.anybotics.com",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Muy alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Muy alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-keybotic",
+      "name": "Keybotic",
+      "country": "España",
+      "specialty": "Keyper inspección industrial",
+      "source": "https://www.keybotic.com",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Muy alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Muy alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-boston-dynamics",
+      "name": "Boston Dynamics",
+      "country": "EE. UU.",
+      "specialty": "Spot cuadrúpedo de inspección",
+      "source": "https://bostondynamics.com",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Muy alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Muy alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-unitree-robotics",
+      "name": "Unitree Robotics",
+      "country": "China",
+      "specialty": "Go2 y B2 cuadrúpedos",
+      "source": "https://www.unitree.com",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Muy alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Muy alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-agilex-robotics",
+      "name": "AgileX Robotics",
+      "country": "China",
+      "specialty": "Scout plataformas móviles abiertas",
+      "source": "https://global.agilex.ai",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Muy alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Muy alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-deep-robotics",
+      "name": "DEEP Robotics",
+      "country": "China",
+      "specialty": "X30 cuadrúpedo industrial",
+      "source": "https://www.deeprobotics.cn",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-flyability",
+      "name": "Flyability",
+      "country": "Suiza",
+      "specialty": "Drones de inspección confinada",
+      "source": "https://www.flyability.com",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Muy alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Muy alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-robotnik",
+      "name": "Robotnik",
+      "country": "España",
+      "specialty": "Plataformas móviles para integración",
+      "source": "https://robotnik.eu",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Muy alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Muy alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-innok-robotics",
+      "name": "Innok Robotics",
+      "country": "Alemania",
+      "specialty": "Robots móviles exteriores",
+      "source": "https://www.innok-robotics.de",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-kewazo",
+      "name": "KEWAZO",
+      "country": "Alemania",
+      "specialty": "Robótica para obras industriales",
+      "source": "https://www.kewazo.com",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Media. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Media",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-safeworld",
+      "name": "SafeWorld",
+      "country": "EE. UU.",
+      "specialty": "Validación de seguridad robótica",
+      "source": "https://safeworld.ai",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Alta. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Alta",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-crewline",
+      "name": "Crewline",
+      "country": "EE. UU.",
+      "specialty": "Autonomía para maquinaria de construcción",
+      "source": "https://crewline.ai",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Media. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Media",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-elementiam",
+      "name": "Elementiam",
+      "country": "Canadá",
+      "specialty": "Escaneo 3D y trayectorias",
+      "source": "https://elementiam.ca",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Media. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Media",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    },
+    {
+      "id": "robotics-puppet-robotics",
+      "name": "Puppet Robotics",
+      "country": "EE. UU.",
+      "specialty": "Robot para trabajos peligrosos",
+      "source": "https://puppetrobotics.ai",
+      "notes": "Proveedor tecnológico potencial para Robo-Inspector; prioridad Media. No implica competidor ni relación comercial. API/SDK, precio y disponibilidad pendientes de verificar.",
+      "category": "Robótica / proveedor potencial",
+      "priority": "Media",
+      "verifiedAt": "",
+      "basis": "Radar 2026 adjunto o investigación preliminar; pendiente de validación directa."
+    }
+  ],
   "clients": [
     {
       "name": "Amprion",
@@ -236,6 +525,69 @@
       "frequency": "Semanal",
       "status": "Fuente de vigilancia; consultar y verificar cada noticia antes de incorporarla",
       "id": "sources-7a44b0e645ddeace"
+    },
+    {
+      "id": "robot-source-the-robot-report",
+      "name": "The Robot Report",
+      "country": "Internacional",
+      "kind": "Directorio / vigilancia robótica",
+      "source": "https://www.therobotreport.com",
+      "frequency": "Semanal",
+      "status": "Fuente candidata: verificar actualizaciones y cada ficha antes de crear señales"
+    },
+    {
+      "id": "robot-source-international-federation-of-robotics",
+      "name": "International Federation of Robotics",
+      "country": "Internacional",
+      "kind": "Directorio / vigilancia robótica",
+      "source": "https://ifr.org",
+      "frequency": "Semanal",
+      "status": "Fuente candidata: verificar actualizaciones y cada ficha antes de crear señales"
+    },
+    {
+      "id": "robot-source-fov-ventures-robotics-map",
+      "name": "FOV Ventures Robotics Map",
+      "country": "Internacional",
+      "kind": "Directorio / vigilancia robótica",
+      "source": "https://robotics.fov.ventures",
+      "frequency": "Semanal",
+      "status": "Fuente candidata: verificar actualizaciones y cada ficha antes de crear señales"
+    },
+    {
+      "id": "robot-source-robotics-connected",
+      "name": "Robotics Connected",
+      "country": "Internacional",
+      "kind": "Directorio / vigilancia robótica",
+      "source": "https://roboticsconnected.com/companies/startups",
+      "frequency": "Semanal",
+      "status": "Fuente candidata: verificar actualizaciones y cada ficha antes de crear señales"
+    },
+    {
+      "id": "robot-source-dealroom",
+      "name": "Dealroom",
+      "country": "Internacional",
+      "kind": "Directorio / vigilancia robótica",
+      "source": "https://dealroom.co",
+      "frequency": "Semanal",
+      "status": "Fuente candidata: verificar actualizaciones y cada ficha antes de crear señales"
+    },
+    {
+      "id": "robot-source-robot24",
+      "name": "Robot24",
+      "country": "Internacional",
+      "kind": "Directorio / vigilancia robótica",
+      "source": "https://robot24.com",
+      "frequency": "Semanal",
+      "status": "Fuente candidata: verificar actualizaciones y cada ficha antes de crear señales"
+    },
+    {
+      "id": "robot-source-robotics-registry",
+      "name": "Robotics Registry",
+      "country": "Internacional",
+      "kind": "Directorio / vigilancia robótica",
+      "source": "https://roboticsregistry.net/all-companies",
+      "frequency": "Semanal",
+      "status": "Fuente candidata: verificar actualizaciones y cada ficha antes de crear señales"
     }
   ],
   "reviews": [
@@ -247,11 +599,19 @@
       "owner": "Vigilancia pública",
       "source": "https://primitivo-carranza.github.io/pct-intelligence/",
       "coverage": "Base pública inicial: 4 proyectos de obra en Alemania y 5 señales contrastadas. Los registros históricos recuperados de archivos privados se facilitan por separado para importación local. Histórico completo de proyectos por países pendiente de recuperar."
+    },
+    {
+      "id": "reviews-robotics-baseline-2026-11-13",
+      "name": "Radar Robo-Inspector · 13/11/2026",
+      "summary": "Carga inicial de 24 proveedores tecnológicos potenciales y 7 fuentes de vigilancia robótica. Selección preliminar; no es verificación de APIs, precios o certificaciones.",
+      "actions": "Priorizar contacto técnico con AgileX, Unitree, Keybotic, ANYbotics, Boston Dynamics; verificar SDK/ROS2, seguridad industrial, ATEX y presupuesto.",
+      "owner": "Vigilancia tecnológica",
+      "source": "https://www.therobotreport.com/"
     }
   ],
   "schemaVersion": 2,
-  "generatedAt": "2026-11-11",
+  "generatedAt": "2026-11-13",
   "methodology": "Solo fuentes públicas contrastadas directamente: promotores y comunicados de contratistas. No contiene datos de archivos privados ni contactos personales.",
-  "coverage": "Base pública inicial: 4 proyectos de obra en Alemania y 5 señales contrastadas. Los registros históricos recuperados de archivos privados se facilitan por separado para importación local. Histórico completo de proyectos por países pendiente de recuperar.",
+  "coverage": "Base pública inicial: 4 proyectos de obra en Alemania y 5 señales contrastadas. Los registros históricos recuperados de archivos privados se facilitan por separado para importación local. Histórico completo de proyectos por países pendiente de recuperar. Ampliación: 24 proveedores tecnológicos de robótica y 7 fuentes sectoriales (preliminares).",
   "historyStatus": "Base pública; no representa el histórico completo de PCT."
 }
