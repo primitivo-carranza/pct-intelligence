@@ -14,6 +14,35 @@ def get(query):
     with urllib.request.urlopen(req,timeout=25) as response:return json.load(response)["message"]["items"]
 def norm(x):return re.sub(r"[^a-z0-9]+"," ",x.lower()).strip()
 keywords=("robot","inspect","construction","autonom","digital twin","computer vision","site monitoring","infrastructure")
+
+def assess(title, abstract=""):
+    """Heuristic triage, not an assessment of demonstrated maturity or cost."""
+    raw=re.sub(r"<[^>]*>"," ",title+" "+abstract).lower()
+    signals={
+      "Inspección y anomalías":("inspection","defect","damage","crack","corrosion","anomaly","monitoring"),
+      "Navegación y autonomía":("navigation","slam","localization","autonomous","path planning","mapping"),
+      "Visión y datos":("computer vision","image","lidar","point cloud","photogrammetry","detection"),
+      "BIM y gemelo digital":("bim","digital twin","building information","as-built"),
+      "Robótica de campo":("robot","quadruped","mobile platform","drone","uav","construction site")
+    }
+    matched={area:[w for w in words if w in raw] for area,words in signals.items()}
+    matched={k:v for k,v in matched.items() if v}
+    site=any(w in raw for w in ("construction","industrial","infrastructure","plant","building","site","facility"))
+    score=min(100,20*len(matched)+(15 if site else 0))
+    if score>=75:decision="Revisión técnica prioritaria"
+    elif score>=45:decision="Seguimiento y revisión de resumen"
+    else:decision="Archivo / relevancia por confirmar"
+    return {
+      "relevanceScore":score,"scoreMethod":"Heurística por palabras del título y resumen; no prueba de viabilidad",
+      "technologyAreas":list(matched),"evidenceKeywords":matched,
+      "trl":"No determinado: requiere evidencia de prototipo, piloto o despliegue",
+      "commercialAvailability":"No verificada","integration":"Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+      "estimatedCost":"Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+      "technicalRisk":"Sin evaluar","recommendation":decision,
+      "nextValidation":"Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+      "assessmentStatus":"Preclasificación automática, pendiente de revisión humana"
+    }
+
 known={norm(p["name"]):p for p in feed.get("people",[])}
 records={x["doi"].lower():x for x in previous.get("publications",[]) if x.get("doi")}
 for term in terms:
@@ -32,9 +61,11 @@ for term in terms:
         institution_matches=[{"id":inst["id"],"name":inst["name"],"matchType":"texto de afiliación; verificar"} for inst in feed.get("institutions",[]) if any(norm(inst["name"].split(" · ")[0]) in norm(a) for a in affs) and len(norm(inst["name"].split(" · ")[0]))>3]
         pubdate=item.get("published",{}).get("date-parts",[[None]])[0]
         date="-".join(str(v).zfill(2) for v in pubdate) if pubdate else ""
-        records[doi]={"doi":doi,"name":title,"date":date,"journal":(item.get("container-title") or [""])[0],"authors":"; ".join(author_names),"affiliations":"; ".join(affs),"source":"https://doi.org/"+doi,"peopleMatches":matches,"institutionMatches":institution_matches,"technology":"Inspección / robótica / IA (clasificación preliminar)","application":"Evaluar posible aplicación a Robo-Inspector","priority":"Por evaluar","contactOpportunity":"Revisar autores y afiliaciones; contacto no confirmado","validation":"Candidato bibliográfico; vínculos no verificados","discoveredAt":str(today)}
+        records[doi]={"assessment":assess(title,item.get("abstract","")),"doi":doi,"name":title,"date":date,"journal":(item.get("container-title") or [""])[0],"authors":"; ".join(author_names),"affiliations":"; ".join(affs),"source":"https://doi.org/"+doi,"peopleMatches":matches,"institutionMatches":institution_matches,"technology":"Inspección / robótica / IA (clasificación preliminar)","application":"Evaluar posible aplicación a Robo-Inspector","priority":"Por evaluar","contactOpportunity":"Revisar autores y afiliaciones; contacto no confirmado","validation":"Candidato bibliográfico; vínculos no verificados","discoveredAt":str(today)}
 previous["generatedAt"]=str(today)
 previous["source"]="Crossref REST API; consultas temáticas; coincidencias de autor/afiliación no verificadas"
+for rec in records.values():
+    if not rec.get("assessment"):rec["assessment"]=assess(rec.get("name",""))
 previous["publications"]=sorted(records.values(),key=lambda x:x.get("date",""),reverse=True)[:500]
 path.write_text(json.dumps(previous,ensure_ascii=False,indent=2)+"\n")
 print("Publications:",len(previous["publications"]))
