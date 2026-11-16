@@ -9,10 +9,11 @@
       "epc": "EPC por paquete; no confirmado en la fuente consultada",
       "phase": "Construcción; sección NDS2 con canalización civil completada según comunicado 07/04/2026",
       "source": "https://www.amprion.net/Presse/Presse-Detailseite_93057.html",
-      "verifiedAt": "2026-11-11",
+      "verifiedAt": "2026-11-16",
       "basis": "Fuente pública de promotor. Fechas previstas no equivalen a contratos abiertos.",
       "evidence": "https://www.amprion.net/Presse/Presse-Detailseite_93057.html",
-      "id": "projects-8e06f0629c082763"
+      "id": "projects-8e06f0629c082763",
+      "verificationResult": "Sin cambio de fase semanal acreditado en las fuentes consultadas; se conserva el estado previo. CAPEX y nuevos paquetes de contratación no confirmados."
     },
     {
       "name": "DolWin4",
@@ -23,10 +24,11 @@
       "epc": "No confirmado en la fuente consultada",
       "phase": "Construcción; puesta en marcha prevista a finales de 2028",
       "source": "https://www.amprion.net/Netzausbau/Unsere-Projekte/DolWin4-und-BorWin4/Projektfortschritt.html",
-      "verifiedAt": "2026-11-11",
+      "verifiedAt": "2026-11-16",
       "basis": "Fuente pública de promotor. Fechas previstas no equivalen a contratos abiertos.",
       "evidence": "https://www.amprion.net/Netzausbau/Unsere-Projekte/DolWin4-und-BorWin4/Projektfortschritt.html",
-      "id": "projects-48b6459fa7ad7a60"
+      "id": "projects-48b6459fa7ad7a60",
+      "verificationResult": "Sin cambio de fase semanal acreditado en las fuentes consultadas; se conserva el estado previo. CAPEX y nuevos paquetes de contratación no confirmados."
     },
     {
       "name": "BorWin4",
@@ -37,10 +39,11 @@
       "epc": "No confirmado en la fuente consultada",
       "phase": "Construcción; puesta en marcha prevista a finales de 2028",
       "source": "https://www.amprion.net/Netzausbau/Unsere-Projekte/DolWin4-und-BorWin4/Projektfortschritt.html",
-      "verifiedAt": "2026-11-11",
+      "verifiedAt": "2026-11-16",
       "basis": "Fuente pública de promotor. Fechas previstas no equivalen a contratos abiertos.",
       "evidence": "https://www.amprion.net/Netzausbau/Unsere-Projekte/DolWin4-und-BorWin4/Projektfortschritt.html",
-      "id": "projects-99e0483df9cbd688"
+      "id": "projects-99e0483df9cbd688",
+      "verificationResult": "Sin cambio de fase semanal acreditado en las fuentes consultadas; se conserva el estado previo. CAPEX y nuevos paquetes de contratación no confirmados."
     },
     {
       "name": "Terminal LNG terrestre Brunsbüttel",
@@ -51,10 +54,12 @@
       "epc": "CS Gas North (Cobra / Sener); fuente del contratista enlazada en evidencia",
       "phase": "En construcción; operación prevista en 2027",
       "source": "https://germanlng.com/unternehmensprofil/",
-      "verifiedAt": "2026-11-11",
+      "verifiedAt": "2026-11-16",
       "basis": "Fuente pública de promotor. Fechas previstas no equivalen a contratos abiertos.",
       "evidence": "https://www.ballast-nedam.com/news/2025/construction-contract-for-sea-jetty-brunsbuettel-germany",
-      "id": "projects-3504b7f2095eb1d9"
+      "id": "projects-3504b7f2095eb1d9",
+      "verificationResult": "Sin cambio de fase semanal acreditado en las fuentes consultadas; se conserva el estado previo. CAPEX y nuevos paquetes de contratación no confirmados.",
+      "procurementSource": "https://germanlng.com/ausschreibungen/"
     }
   ],
   "signals": [
@@ -112,9 +117,76 @@
       "status": "Noticia histórica verificada el 11/11/2026",
       "impact": "Evidencia de avance de compras. No acredita una contratación de servicios o personal por PCT.",
       "id": "signals-42b331c6f19bfdab"
+    },
+    {
+      "id": "signals-h2cast-analysis-2026-11-13",
+      "name": "Etzel: análisis DLR sobre integración de almacenamiento H₂",
+      "country": "Alemania",
+      "sector": "Hidrógeno / almacenamiento",
+      "kind": "Análisis técnico; no FID ni adjudicación",
+      "date": "2026-11-13",
+      "source": "https://h2cast.com/news/detail/h2cast-etzel-hydrogen-pilot-project-a-recent-analysis-by-project-partner-dlr-shows-that-the-etzel-cavern-storage-facility-can-make-an-indispensable-contribution-to-germanys-hydrogen-supply-that-supports-the-energy-system",
+      "status": "Publicación del periodo 09–15/11/2026; verificada el 16/11/2026",
+      "impact": "Inferencia PCT: vigilar compresión y redes asociadas; exigir FID y paquetes antes de prospectar como obra madura.",
+      "verifiedAt": "2026-11-16",
+      "evidence": "Publicación del proyecto basada en modelización; fecha del estudio: 2026, día no indicado. No acredita ampliación comercial financiada.",
+      "basis": "Fuente del proyecto; no equiparar escenario a demanda contratada."
+    },
+    {
+      "id": "signals-siemens-energy-fy2026-2026-11-11",
+      "name": "Siemens Energy: crecimiento de pedidos en gas y redes",
+      "country": "Alemania",
+      "sector": "Redes eléctricas / gas",
+      "kind": "Resultados corporativos; no contrato abierto",
+      "date": "2026-11-11",
+      "source": "https://www.siemens-energy.com/de/de/home/press-releases/siemens-energy-reports-record-year-and-sets-ambitious-targets-fo.html",
+      "status": "Publicación del periodo 09–15/11/2026; verificada el 16/11/2026",
+      "impact": "Inferencia PCT: cualificar homologación y servicios de supervisión, QA/QC y commissioning por paquete concreto.",
+      "verifiedAt": "2026-11-16",
+      "evidence": "Ejercicio cerrado 30/09/2026: pedidos Gas Services 32.800 M€ y Grid Technologies 24.000 M€; magnitudes globales.",
+      "basis": "Cifras declaradas por la empresa; no CAPEX de proyectos alemanes ni volumen disponible para PCT."
+    },
+    {
+      "id": "signals-iea-pledges-progress-2026-11-12",
+      "name": "IEA publica evaluación de descarbonización del petróleo y gas",
+      "country": "Internacional",
+      "sector": "Gas / mantenimiento industrial",
+      "kind": "Informe sectorial",
+      "date": "2026-11-12",
+      "source": "https://www.iea.org/reports/pledges-to-progress-2026",
+      "status": "Publicación del periodo 09–15/11/2026; verificada el 16/11/2026",
+      "impact": "Inferencia PCT: revisar monitorización de emisiones y trazabilidad QA/QC; sin contratación identificada.",
+      "verifiedAt": "2026-11-16",
+      "evidence": "Publicación 12/11/2026; evalúa actuaciones declaradas de empresas, no es una nueva obligación regulatoria.",
+      "basis": "Fuente primaria IEA; no atribuir inversiones o contratos al informe."
+    },
+    {
+      "id": "signals-anybotics-aif-recap-2026-11-11",
+      "name": "Inspección autónoma: lecciones de despliegue industrial del AIF",
+      "country": "Suiza",
+      "sector": "Inspección industrial / robótica",
+      "kind": "Publicación tecnológica; evento anterior",
+      "date": "2026-11-11",
+      "source": "https://www.anybotics.com/news/aif2026-recap/",
+      "status": "Publicación del periodo 09–15/11/2026; verificada el 16/11/2026",
+      "impact": "Inferencia PCT: definir piloto de inspección conectado a órdenes de mantenimiento y métricas. Sin compra ni contrato confirmado.",
+      "verifiedAt": "2026-11-16",
+      "evidence": "Resumen del fabricante publicado 11/11; foro celebrado en Zúrich 28–29/10/2026. Fuente recuperada en buscador; apertura directa agotó tiempo.",
+      "basis": "Declaraciones del proveedor; país del evento, no país de una obra. Referencia breve; boletín del robo-inspector independiente."
     }
   ],
-  "competitors": [],
+  "competitors": [
+    {
+      "id": "competitors-siemens-energy-de",
+      "name": "Siemens Energy",
+      "country": "Alemania",
+      "specialty": "Tecnología de redes eléctricas y generación a gas",
+      "source": "https://www.siemens-energy.com/de/de/home/press-releases/siemens-energy-reports-record-year-and-sets-ambitious-targets-fo.html",
+      "notes": "Actor sectorial y posible cadena de suministro; competencia directa con PCT no acreditada. Sin relación comercial confirmada.",
+      "basis": "Fuente corporativa pública de 11/11/2026; no evaluación interna.",
+      "verifiedAt": "2026-11-16"
+    }
+  ],
   "clients": [
     {
       "name": "Amprion",
@@ -138,10 +210,12 @@
       "name": "German LNG Terminal GmbH",
       "country": "Alemania",
       "sector": "Gas / LNG",
-      "contact": "Compras corporativas; por cualificar",
+      "contact": "Portal DTVP para compras del promotor; obras gestionadas por CS Gas North S.L.; sin contacto personal.",
       "source": "https://germanlng.com/unternehmensprofil/",
       "status": "Cuenta objetivo potencial, sin relación comercial acreditada",
-      "id": "clients-e9cc11972f5d0366"
+      "id": "clients-e9cc11972f5d0366",
+      "verifiedAt": "2026-11-16",
+      "evidence": "https://germanlng.com/ausschreibungen/"
     }
   ],
   "opportunities": [
@@ -188,10 +262,11 @@
       "value": "",
       "phase": "Hipótesis de prospección; no es licitación ni contrato confirmado",
       "owner": "Por asignar",
-      "next": "Revisar paquetes pendientes, contratistas y requisitos de homologación antes de contacto comercial.",
+      "next": "Consultar DTVP para compras del promotor y cualificar paquetes de obra con CS Gas North S.L. No se ha identificado una licitación concreta abierta para PCT.",
       "source": "https://germanlng.com/unternehmensprofil/",
-      "verifiedAt": "2026-11-11",
-      "id": "opportunities-1b868986d9072a15"
+      "verifiedAt": "2026-11-16",
+      "id": "opportunities-1b868986d9072a15",
+      "evidence": "https://germanlng.com/ausschreibungen/"
     }
   ],
   "sources": [
@@ -201,7 +276,9 @@
       "kind": "Promotor / operador",
       "source": "https://www.amprion.net/",
       "frequency": "Semanal",
-      "id": "sources-87b3100cc5afffe5"
+      "id": "sources-87b3100cc5afffe5",
+      "status": "Proyectos y prensa consultados 16/11/2026; sin hito semanal nuevo acreditado para A-Nord, DolWin4 o BorWin4.",
+      "verifiedAt": "2026-11-16"
     },
     {
       "name": "TenneT Germany · proyectos y comunicados",
@@ -209,7 +286,9 @@
       "kind": "Promotor / operador",
       "source": "https://www.tennet-ir.eu/en",
       "frequency": "Semanal",
-      "id": "sources-c4ea99b6552a4e13"
+      "id": "sources-c4ea99b6552a4e13",
+      "status": "IR consultado 16/11/2026; páginas de compras/proyectos en tennet.eu bloqueadas por robots/restricción de acceso. Sin cobertura completa.",
+      "verifiedAt": "2026-11-16"
     },
     {
       "name": "German LNG Terminal GmbH · proyectos y comunicados",
@@ -217,7 +296,9 @@
       "kind": "Promotor / operador",
       "source": "https://germanlng.com/unternehmensprofil/",
       "frequency": "Semanal",
-      "id": "sources-e4ff8e789e20c0b8"
+      "id": "sources-e4ff8e789e20c0b8",
+      "status": "Perfil, noticias y compras consultados 16/11/2026; no adjudicación semanal concreta acreditada.",
+      "verifiedAt": "2026-11-16"
     },
     {
       "name": "IEA · informes de energía",
@@ -225,8 +306,9 @@
       "kind": "Organismo sectorial",
       "source": "https://www.iea.org/reports",
       "frequency": "Semanal",
-      "status": "Fuente de vigilancia; consultar y verificar cada noticia antes de incorporarla",
-      "id": "sources-db8599a2da098fa9"
+      "status": "Informes consultados 16/11/2026; incorporada publicación 12/11/2026.",
+      "id": "sources-db8599a2da098fa9",
+      "verifiedAt": "2026-11-16"
     },
     {
       "name": "TED · licitaciones europeas",
@@ -234,8 +316,49 @@
       "kind": "Contratación pública",
       "source": "https://ted.europa.eu/",
       "frequency": "Semanal",
-      "status": "Fuente de vigilancia; consultar y verificar cada noticia antes de incorporarla",
-      "id": "sources-7a44b0e645ddeace"
+      "status": "Portal y búsquedas dirigidas consultados 16/11/2026; no aviso relevante del periodo validado. No revisión exhaustiva de expedientes.",
+      "id": "sources-7a44b0e645ddeace",
+      "verifiedAt": "2026-11-16"
+    },
+    {
+      "id": "sources-h2cast",
+      "name": "H2CAST Etzel · noticias",
+      "country": "Alemania",
+      "kind": "Proyecto / investigación",
+      "source": "https://h2cast.com/news/detail/h2cast-etzel-hydrogen-pilot-project-a-recent-analysis-by-project-partner-dlr-shows-that-the-etzel-cavern-storage-facility-can-make-an-indispensable-contribution-to-germanys-hydrogen-supply-that-supports-the-energy-system",
+      "frequency": "Semanal",
+      "status": "Publicación 13/11/2026 consultada.",
+      "verifiedAt": "2026-11-16"
+    },
+    {
+      "id": "sources-siemens-energy",
+      "name": "Siemens Energy · comunicados",
+      "country": "Alemania",
+      "kind": "Contratista / fabricante",
+      "source": "https://www.siemens-energy.com/de/de/home/press-releases/siemens-energy-reports-record-year-and-sets-ambitious-targets-fo.html",
+      "frequency": "Semanal",
+      "status": "Resultados 11/11/2026 consultados.",
+      "verifiedAt": "2026-11-16"
+    },
+    {
+      "id": "sources-anybotics",
+      "name": "ANYbotics · noticias",
+      "country": "Suiza",
+      "kind": "Proveedor de inspección industrial",
+      "source": "https://www.anybotics.com/news/aif2026-recap/",
+      "frequency": "Semanal",
+      "status": "Texto recuperado en buscador; apertura directa agotó tiempo.",
+      "verifiedAt": "2026-11-16"
+    },
+    {
+      "id": "sources-germanlng-procurement",
+      "name": "German LNG · compras",
+      "country": "Alemania",
+      "kind": "Compras de promotor",
+      "source": "https://germanlng.com/ausschreibungen/",
+      "frequency": "Semanal",
+      "status": "Ruta DTVP y gestión de obras por CS Gas North verificadas; sin paquete abierto concreto validado.",
+      "verifiedAt": "2026-11-16"
     }
   ],
   "reviews": [
@@ -247,11 +370,26 @@
       "owner": "Vigilancia pública",
       "source": "https://primitivo-carranza.github.io/pct-intelligence/",
       "coverage": "Base pública inicial: 4 proyectos de obra en Alemania y 5 señales contrastadas. Los registros históricos recuperados de archivos privados se facilitan por separado para importación local. Histórico completo de proyectos por países pendiente de recuperar."
+    },
+    {
+      "id": "reviews-weekly-2026-11-09-2026-11-15",
+      "name": "Revisión semanal · 09–15/11/2026",
+      "summary": "Primera revisión semanal registrada. Cuatro publicaciones del periodo: Siemens Energy, H2CAST, IEA e inspección autónoma. Cero proyectos nuevos o cambios de fase semanales acreditados. Cuatro proyectos existentes reconsultados, conservando IDs. Sin contratos abiertos confirmados para PCT.",
+      "actions": "Priorizar ruta de compras de Brunsbüttel; cualificar homologación en redes; verificar FID antes de prospectar ampliaciones H₂. Reintentar fuentes restringidas y resolver discrepancia del expediente FSRU G10/2025/024; no dar permiso por concedido.",
+      "owner": "Vigilancia pública",
+      "source": "https://primitivo-carranza.github.io/pct-intelligence/data/weekly-feed.json",
+      "coverage": "09/11/2026 00:00–15/11/2026 23:59 Europe/Berlin. Sin revisión semanal anterior correcta registrada; sin intervalos semanales omitidos desde la base del 11/11/2026. Histórico completo por países pendiente.",
+      "status": "Investigación parcial completada; límites de acceso documentados",
+      "limitations": "Alemania como país de obra existente; Suiza solo país del evento tecnológico. TED no exhaustivo; tennet.eu restringido; ANYbotics solo texto de búsqueda. Expediente FSRU con fechas contradictorias entre búsqueda y lectura oficial excluido como novedad. Sin novedades verificadas de adjudicaciones, BESS, grandes consumos o CCUS maduro.",
+      "verifiedAt": "2026-11-16",
+      "periodStart": "2026-11-09",
+      "periodEnd": "2026-11-15",
+      "counts": "projects +0/~4; signals +4/~0; competitors +1/~0; clients +0/~1; opportunities +0/~1; sources +4/~5; reviews +1/~0. Actualizaciones incluyen reverificación, no solo cambios materiales."
     }
   ],
   "schemaVersion": 2,
-  "generatedAt": "2026-11-13",
-  "methodology": "Radar de construcción exclusivamente: proyectos de obra, promotores, contratistas, licitaciones, señales de mercado y oportunidades comerciales. No incorporar IA ni robótica.",
-  "coverage": "Radar Construcción independiente: proyectos industriales e infraestructuras. Sin registros de IA ni robótica.",
+  "generatedAt": "2026-11-16T07:54:24Z",
+  "methodology": "Investigación pública primaria de infraestructuras e industria; hechos separados de hipótesis comerciales. Señales breves de inspección industrial sin sustituir el boletín independiente del robo-inspector.",
+  "coverage": "Revisión 09–15/11/2026 (Europe/Berlin), comprobada el 16/11/2026. Alemania: 4 proyectos existentes, sin cambio de fase semanal acreditado. 4 publicaciones nuevas, incluidas señales internacionales y evento tecnológico en Suiza. Cobertura parcial: compras TenneT restringidas y TED no exhaustivo. Base histórica y datos locales conservados; histórico completo por países pendiente.",
   "historyStatus": "Base pública; no representa el histórico completo de PCT."
 }
