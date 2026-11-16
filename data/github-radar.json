@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14",
-  "status": "Inventario inicial; características por verificar",
+  "generatedAt": "2026-11-16",
+  "status": "Revisión parcial contrastada del 2026-11-16 (periodo observado 2026-11-09 a 2026-11-15): nuevas tecnologías y licencias de selección. Pendientes costes reales y pilotos técnicos.",
   "records": [
     {
       "id": "infiniflow/ragflow",
@@ -10,12 +10,24 @@
       "utility": "Consulta de contratos y pliegos con referencias",
       "url": "https://github.com/infiniflow/ragflow",
       "priority": "Alta",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
-      "activity": "Pendiente",
+      "verification": "URL y licencia comprobadas 2026-11-16; viabilidad técnica/comercial pendiente",
+      "license": "Apache-2.0",
+      "activity": "Repositorio con actividad pública 2026-11-13",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-16",
+      "licenseSource": "https://github.com/infiniflow/ragflow/blob/main/LICENSE",
+      "lastWeekFinding": "2026-11-13: actividad confirmada en organización; release 1.0 del 2026-11-06 es antecedente, no novedad de esta semana",
+      "evidence": "https://github.com/infiniflow/ragflow/releases",
+      "integrations": "RAG y agentes; validar API de consulta documental",
+      "risk": "Migración a versión 1.0 requiere copia previa; cambios de arquitectura importantes",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "revisión",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
     },
     {
       "id": "docling-project/docling",
@@ -24,12 +36,23 @@
       "utility": "Extracción de tablas y datos de licitaciones",
       "url": "https://github.com/docling-project/docling",
       "priority": "Alta",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
-      "activity": "Pendiente",
+      "verification": "URL y licencia comprobadas 2026-11-16; viabilidad técnica/comercial pendiente",
+      "license": "MIT",
+      "activity": "Issues públicos abiertos 2026-11-13; no equivale a nueva versión",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-16",
+      "licenseSource": "https://github.com/docling-project/docling/blob/main/LICENSE",
+      "evidence": "https://github.com/docling-project/docling/issues",
+      "integrations": "Python, PDF, DOCX y tablas; estudiar extracción fiable de pliegos",
+      "risk": "Validar OCR, tablas, notas y referencias con documentos EPC reales",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "revisión",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
     },
     {
       "id": "microsoft/graphrag",
@@ -38,12 +61,20 @@
       "utility": "Relacionar requisitos, proyectos y empresas",
       "url": "https://github.com/microsoft/graphrag",
       "priority": "Por evaluar",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
+      "verification": "URL y licencia comprobadas 2026-11-16; viabilidad técnica/comercial pendiente",
+      "license": "MIT",
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-16",
+      "licenseSource": "https://github.com/microsoft/graphrag/blob/main/LICENSE",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "revisión",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
     },
     {
       "id": "qdrant/qdrant",
@@ -52,12 +83,20 @@
       "utility": "Búsqueda semántica técnica",
       "url": "https://github.com/qdrant/qdrant",
       "priority": "Por evaluar",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
+      "verification": "URL y licencia comprobadas 2026-11-16; viabilidad técnica/comercial pendiente",
+      "license": "Apache-2.0",
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-16",
+      "licenseSource": "https://github.com/qdrant/qdrant/blob/master/LICENSE",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "revisión",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
     },
     {
       "id": "open-webui/open-webui",
@@ -66,12 +105,21 @@
       "utility": "Portal interno de asistentes",
       "url": "https://github.com/open-webui/open-webui",
       "priority": "Por evaluar",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
+      "verification": "URL y licencia comprobadas 2026-11-16; viabilidad técnica/comercial pendiente",
+      "license": "Open WebUI License (condiciones de marca)",
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-16",
+      "licenseSource": "https://github.com/open-webui/open-webui/blob/main/LICENSE",
+      "risk": "Restricciones sobre retirada de marca; revisar uso y sublicencia en portal comercial PCT",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "revisión",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
     },
     {
       "id": "langgenius/dify",
@@ -80,12 +128,21 @@
       "utility": "Asistentes por disciplina EPC",
       "url": "https://github.com/langgenius/dify",
       "priority": "Alta",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
+      "verification": "URL y licencia comprobadas 2026-11-16; viabilidad técnica/comercial pendiente",
+      "license": "Apache-2.0 modificada (condiciones adicionales)",
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-16",
+      "licenseSource": "https://github.com/langgenius/dify/blob/main/LICENSE",
+      "risk": "Servicio multi-tenant y retirada de marca pueden exigir licencia comercial",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "revisión",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
     },
     {
       "id": "microsoft/markitdown",
@@ -206,12 +263,21 @@
       "utility": "Automatización del radar comercial",
       "url": "https://github.com/n8n-io/n8n",
       "priority": "Alta",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
+      "verification": "URL y licencia comprobadas 2026-11-16; viabilidad técnica/comercial pendiente",
+      "license": "Sustainable Use License / Enterprise",
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-16",
+      "licenseSource": "https://github.com/n8n-io/n8n/blob/master/LICENSE.md",
+      "risk": "Uso interno permitido según términos; integración como servicio para clientes requiere análisis de licencia",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "revisión",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
     },
     {
       "id": "activepieces/activepieces",
@@ -295,21 +361,26 @@
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
-    },
-    {
-      "id": "mendableai/firecrawl",
-      "repo": "mendableai/firecrawl",
-      "category": "Automatización y vigilancia",
-      "utility": "Posible repositorio duplicado; verificar",
-      "url": "https://github.com/mendableai/firecrawl",
-      "priority": "Por evaluar",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
-      "activity": "Pendiente",
-      "cost": "Pendiente",
-      "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-14",
+      "aliases": [
+        "mendableai/firecrawl",
+        "firecrawl/firecrawl"
+      ],
+      "previousRecords": [
+        {
+          "id": "firecrawl/firecrawl",
+          "repo": "firecrawl/firecrawl",
+          "utility": "Posible repositorio duplicado; verificar"
+        }
+      ],
+      "evidence": "https://github.com/firecrawl/firecrawl",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "revisión",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
     },
     {
       "id": "langfuse/langfuse",
@@ -374,12 +445,21 @@
       "utility": "Detección visual de EPIs y equipos",
       "url": "https://github.com/ultralytics/ultralytics",
       "priority": "Alta",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
+      "verification": "URL y licencia comprobadas 2026-11-16; viabilidad técnica/comercial pendiente",
+      "license": "AGPL-3.0 o Enterprise",
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-16",
+      "licenseSource": "https://github.com/ultralytics/ultralytics/blob/main/LICENSE",
+      "risk": "Revisar obligaciones AGPL y alternativa Enterprise antes de integrar modelos en Robo-Inspector cerrado",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "revisión",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
     },
     {
       "id": "roboflow/supervision",
@@ -584,12 +664,22 @@
       "utility": "Mediciones IFC para ofertas",
       "url": "https://github.com/IfcOpenShell/IfcOpenShell",
       "priority": "Alta",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
-      "activity": "Pendiente",
+      "verification": "URL y licencia comprobadas 2026-11-16; viabilidad técnica/comercial pendiente",
+      "license": "LGPL-3.0 (biblioteca; verificar componentes)",
+      "activity": "Repositorio con actividad pública 2026-11-11",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-16",
+      "licenseSource": "https://github.com/IfcOpenShell/IfcOpenShell",
+      "evidence": "https://github.com/IfcOpenShell/IfcOpenShell/discussions/9759",
+      "risk": "Analizar licencias de componentes y add-ons aparte de la biblioteca",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "revisión",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
     },
     {
       "id": "opensourceBIM/BIMserver",
@@ -612,26 +702,48 @@
       "utility": "Visor BIM web",
       "url": "https://github.com/ThatOpen/engine_components",
       "priority": "Por evaluar",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
-      "activity": "Pendiente",
+      "verification": "URL y licencia comprobadas 2026-11-16; viabilidad técnica/comercial pendiente",
+      "license": "MIT",
+      "activity": "Organización ThatOpen actualizada 2026-11-08; última versión documentada v3.6.0 del 2026-10-22",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-16",
+      "licenseSource": "https://github.com/ThatOpen/engine_components",
+      "evidence": "https://github.com/ThatOpen/engine_components/releases",
+      "integrations": "SDK TypeScript de visualización BIM",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "revisión",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
     },
     {
-      "id": "ThatOpen/web-ifc",
-      "repo": "ThatOpen/web-ifc",
+      "id": "ThatOpen/engine_web-ifc",
+      "repo": "ThatOpen/engine_web-ifc",
       "category": "BIM y construcción",
       "utility": "Lectura IFC en navegador",
-      "url": "https://github.com/ThatOpen/web-ifc",
+      "url": "https://github.com/ThatOpen/engine_web-ifc",
       "priority": "Por evaluar",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
-      "activity": "Pendiente",
+      "verification": "URL y licencia comprobadas 2026-11-16; viabilidad técnica/comercial pendiente",
+      "license": "MPL-2.0",
+      "activity": "Organización ThatOpen actualizada 2026-11-11",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-16",
+      "aliases": [
+        "ThatOpen/web-ifc"
+      ],
+      "licenseSource": "https://github.com/ThatOpen/engine_web-ifc",
+      "integrations": "JavaScript/WebAssembly en navegador; importación IFC",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "revisión",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
     },
     {
       "id": "xeokit/xeokit-sdk",
@@ -648,18 +760,29 @@
       "reviewedAt": "2026-11-14"
     },
     {
-      "id": "SpeckleSystems/speckle-server",
-      "repo": "SpeckleSystems/speckle-server",
+      "id": "specklesystems/speckle-server",
+      "repo": "specklesystems/speckle-server",
       "category": "BIM y construcción",
       "utility": "Intercambio de datos BIM",
-      "url": "https://github.com/SpeckleSystems/speckle-server",
+      "url": "https://github.com/specklesystems/speckle-server",
       "priority": "Por evaluar",
       "verification": "Pendiente de verificar",
       "license": "Pendiente",
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-14",
+      "aliases": [
+        "SpeckleSystems/speckle-server"
+      ],
+      "evidence": "https://github.com/specklesystems/speckle-server",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "revisión",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
     },
     {
       "id": "FreeCAD/FreeCAD",
@@ -704,18 +827,29 @@
       "reviewedAt": "2026-11-14"
     },
     {
-      "id": "buildingSMART/IFC4.3.x-development",
-      "repo": "buildingSMART/IFC4.3.x-development",
+      "id": "buildingSMART/IFC4.x-development",
+      "repo": "buildingSMART/IFC4.x-development",
       "category": "BIM y construcción",
       "utility": "Seguimiento del estándar IFC",
-      "url": "https://github.com/buildingSMART/IFC4.3.x-development",
+      "url": "https://github.com/buildingSMART/IFC4.x-development",
       "priority": "Por evaluar",
       "verification": "Pendiente de verificar",
       "license": "Pendiente",
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-14",
+      "aliases": [
+        "buildingSMART/IFC4.3.x-development"
+      ],
+      "evidence": "https://github.com/buildingSMART/IFC4.x-development",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "revisión",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
     },
     {
       "id": "google/or-tools",
@@ -724,12 +858,20 @@
       "utility": "Optimización de cuadrillas y turnos",
       "url": "https://github.com/google/or-tools",
       "priority": "Alta",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
+      "verification": "URL y licencia comprobadas 2026-11-16; viabilidad técnica/comercial pendiente",
+      "license": "Apache-2.0",
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-16",
+      "licenseSource": "https://github.com/google/or-tools/blob/stable/LICENSE",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "revisión",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
     },
     {
       "id": "pyomo/pyomo",
@@ -884,6 +1026,256 @@
       "cost": "Pendiente",
       "decision": "Evaluar",
       "reviewedAt": "2026-11-14"
+    },
+    {
+      "id": "opf/openproject",
+      "url": "https://github.com/opf/openproject",
+      "verification": "URL y licencia comprobadas 2026-11-16; validación EPC y económica pendiente",
+      "cost": "Coste de desarrollo/despliegue no evaluado",
+      "maturity": "Repositorio público activo; sin piloto PCT",
+      "decision": "Evaluar mediante prueba técnica",
+      "reviewedAt": "2026-11-16",
+      "repo": "opf/openproject",
+      "category": "Planificación y analítica",
+      "utility": "Gestión de proyectos, paquetes de trabajo, diagramas Gantt, tiempos y cartera; valorar como complemento, no sustituto confirmado de Primavera P6",
+      "priority": "Alta",
+      "license": "GPL-3.0",
+      "licenseSource": "https://github.com/opf/openproject/blob/dev/LICENSE",
+      "integrations": "API y despliegue local; comprobar integración con modelo EPC",
+      "risk": "GPL-3.0 y límites funcionales de CPM: evaluar antes de integrar en producto propietario",
+      "evidence": "https://github.com/opf/openproject",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "alta",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
+    },
+    {
+      "id": "frappe/erpnext",
+      "url": "https://github.com/frappe/erpnext",
+      "verification": "URL y licencia comprobadas 2026-11-16; validación EPC y económica pendiente",
+      "cost": "Coste de desarrollo/despliegue no evaluado",
+      "maturity": "Repositorio público activo; sin piloto PCT",
+      "decision": "Evaluar mediante prueba técnica",
+      "reviewedAt": "2026-11-16",
+      "repo": "frappe/erpnext",
+      "category": "Planificación y analítica",
+      "utility": "ERP de compras, proyectos, horas, contabilidad y personal para contratos EPC; piloto de integración con módulos internos",
+      "priority": "Alta",
+      "license": "GPL-3.0",
+      "licenseSource": "https://github.com/frappe/erpnext/blob/develop/license.txt",
+      "integrations": "Framework Frappe y APIs; estudiar interoperabilidad con PCT EPC",
+      "risk": "GPL-3.0 y configuración requerida para certificaciones de obra y gestión alemana",
+      "evidence": "https://github.com/frappe/erpnext",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "alta",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
+    },
+    {
+      "id": "dagster-io/dagster",
+      "url": "https://github.com/dagster-io/dagster",
+      "verification": "URL y licencia comprobadas 2026-11-16; validación EPC y económica pendiente",
+      "cost": "Coste de desarrollo/despliegue no evaluado",
+      "maturity": "Repositorio público activo; sin piloto PCT",
+      "decision": "Evaluar mediante prueba técnica",
+      "reviewedAt": "2026-11-16",
+      "repo": "dagster-io/dagster",
+      "category": "Automatización y vigilancia",
+      "utility": "Orquestación auditable de extracción y validación de datos de fuentes públicas y del radar tecnológico",
+      "priority": "Alta",
+      "license": "Apache-2.0",
+      "licenseSource": "https://github.com/dagster-io/dagster/blob/master/LICENSE",
+      "integrations": "Pipelines Python, activos de datos, observabilidad y scheduling",
+      "evidence": "https://github.com/dagster-io/dagster",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "alta",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
+    },
+    {
+      "id": "process-intelligence-solutions/pm4py",
+      "url": "https://github.com/process-intelligence-solutions/pm4py",
+      "verification": "URL y licencia comprobadas 2026-11-16; validación EPC y económica pendiente",
+      "cost": "Coste de desarrollo/despliegue no evaluado",
+      "maturity": "Repositorio público activo; sin piloto PCT",
+      "decision": "Evaluar mediante prueba técnica",
+      "reviewedAt": "2026-11-16",
+      "repo": "process-intelligence-solutions/pm4py",
+      "category": "Planificación y analítica",
+      "utility": "Minería de procesos de aprobaciones documentales, RFIs, NCR y cambios para detectar cuellos de botella tipo Aconex",
+      "priority": "Por evaluar",
+      "license": "AGPL-3.0 (opción comercial disponible)",
+      "licenseSource": "https://github.com/process-intelligence-solutions/pm4py/blob/release/LICENSE",
+      "integrations": "Python y registros de eventos",
+      "risk": "AGPL-3.0: revisar integración con software privativo; existe licencia comercial",
+      "evidence": "https://github.com/process-intelligence-solutions/pm4py",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "alta",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
+    },
+    {
+      "id": "docling-project/docling.rs",
+      "url": "https://github.com/docling-project/docling.rs",
+      "verification": "URL y licencia comprobadas 2026-11-16; validación EPC y económica pendiente",
+      "cost": "Coste de desarrollo/despliegue no evaluado",
+      "maturity": "Repositorio público activo; sin piloto PCT",
+      "decision": "Evaluar mediante prueba técnica",
+      "reviewedAt": "2026-11-16",
+      "repo": "docling-project/docling.rs",
+      "category": "Documentos e IA EPC",
+      "utility": "Extracción de documentos y tablas en Rust; prototipo de ingesta de contratos y especificaciones con menor dependencia de servicios externos",
+      "priority": "Alta",
+      "license": "MIT",
+      "licenseSource": "https://github.com/docling-project/docling.rs/blob/master/LICENSE",
+      "integrations": "Rust y FFI (validar API en piloto)",
+      "activity": "Versión v2.82.1 publicada 2026-11-12; corrección de tablas PDF sin celdas en capa textual",
+      "lastWeekFinding": "2026-11-12: release v2.82.1; conservación de tablas PDF sin texto incrustado y su pie",
+      "evidence": "https://github.com/docling-project/docling.rs/releases",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "alta",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
+    },
+    {
+      "id": "ros-navigation/navigation2_dynamic",
+      "url": "https://github.com/ros-navigation/navigation2_dynamic",
+      "verification": "URL y licencia comprobadas 2026-11-16; validación EPC y económica pendiente",
+      "cost": "Coste de desarrollo/despliegue no evaluado",
+      "maturity": "Repositorio público activo; sin piloto PCT",
+      "decision": "Evaluar mediante prueba técnica",
+      "reviewedAt": "2026-11-16",
+      "repo": "ros-navigation/navigation2_dynamic",
+      "category": "Robo-Inspector",
+      "utility": "Percepción y seguimiento de obstáculos móviles para navegación segura del robot inspector en plantas en operación",
+      "priority": "Alta",
+      "license": "Apache-2.0",
+      "licenseSource": "https://github.com/ros-navigation/navigation2_dynamic/blob/master/LICENSE",
+      "integrations": "ROS 2 Navigation2; revisar compatibilidad de distribución",
+      "risk": "Validar seguridad funcional y sensores en planta, no usar directamente como función de seguridad",
+      "evidence": "https://github.com/ros-navigation/navigation2_dynamic",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "alta",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
+    },
+    {
+      "id": "ThatOpen/engine_fragment",
+      "url": "https://github.com/ThatOpen/engine_fragment",
+      "verification": "URL y licencia comprobadas 2026-11-16; validación EPC y económica pendiente",
+      "cost": "Coste de desarrollo/despliegue no evaluado",
+      "maturity": "Repositorio público activo; sin piloto PCT",
+      "decision": "Evaluar mediante prueba técnica",
+      "reviewedAt": "2026-11-16",
+      "repo": "ThatOpen/engine_fragment",
+      "category": "BIM y construcción",
+      "utility": "Representación eficiente de modelos BIM dentro del visor web de la futura plataforma EPC",
+      "priority": "Alta",
+      "license": "MIT",
+      "licenseSource": "https://github.com/ThatOpen/engine_fragment",
+      "integrations": "Ecosistema ThatOpen y visor web; validar versión SDK",
+      "evidence": "https://github.com/ThatOpen/engine_fragment",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "type": "alta",
+          "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
+    }
+  ],
+  "mergedRecords": [
+    {
+      "mergedAt": "2026-11-16",
+      "canonical": "firecrawl/firecrawl",
+      "previous": {
+        "id": "firecrawl/firecrawl",
+        "repo": "firecrawl/firecrawl",
+        "category": "Automatización y vigilancia",
+        "utility": "Posible repositorio duplicado; verificar",
+        "url": "https://github.com/firecrawl/firecrawl",
+        "priority": "Por evaluar",
+        "verification": "Pendiente de verificar",
+        "license": "Pendiente",
+        "activity": "Pendiente",
+        "cost": "Pendiente",
+        "decision": "Evaluar",
+        "reviewedAt": "2026-11-14",
+        "aliases": [
+          "mendableai/firecrawl"
+        ]
+      }
+    }
+  ],
+  "coverage": "Radar tecnológico GitHub autónomo; no afecta al radar de Construcción. 69 repositorios activos; 7 altas; 1 duplicado canónico fusionado.",
+  "reviews": [
+    {
+      "date": "2026-11-16",
+      "periodStart": "2026-11-09",
+      "periodEnd": "2026-11-15",
+      "previousCount": 63,
+      "newCount": 69,
+      "newRepos": [
+        "opf/openproject",
+        "frappe/erpnext",
+        "dagster-io/dagster",
+        "process-intelligence-solutions/pm4py",
+        "docling-project/docling.rs",
+        "ros-navigation/navigation2_dynamic",
+        "ThatOpen/engine_fragment"
+      ],
+      "renamed": [
+        {
+          "from": "mendableai/firecrawl",
+          "to": "firecrawl/firecrawl"
+        },
+        {
+          "from": "ThatOpen/web-ifc",
+          "to": "ThatOpen/engine_web-ifc"
+        },
+        {
+          "from": "SpeckleSystems/speckle-server",
+          "to": "specklesystems/speckle-server"
+        },
+        {
+          "from": "buildingSMART/IFC4.3.x-development",
+          "to": "buildingSMART/IFC4.x-development"
+        }
+      ],
+      "duplicates": [
+        {
+          "removed": "firecrawl/firecrawl",
+          "kept": "firecrawl/firecrawl"
+        }
+      ],
+      "licenseCheckedExisting": 12,
+      "notes": "Enlaces y licencias de una selección comprobados en fuentes primarias. Actividad de la última semana solo se indica cuando se verificó una fecha; la lista de nuevos candidatos no implica creación de repositorio esta semana. Costes/madurez de implantación siguen sin auditar.",
+      "sources": [
+        "https://github.com/docling-project/docling.rs/releases",
+        "https://github.com/infiniflow/ragflow/releases",
+        "https://github.com/IfcOpenShell/IfcOpenShell/discussions/9759",
+        "https://github.com/n8n-io/n8n/blob/master/LICENSE.md",
+        "https://github.com/ultralytics/ultralytics/blob/main/LICENSE",
+        "https://github.com/langgenius/dify/blob/main/LICENSE"
+      ]
     }
   ]
 }
