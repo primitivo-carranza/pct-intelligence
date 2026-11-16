@@ -1,5 +1,1701 @@
 {
-  "generatedAt": "",
-  "source": "Crossref REST API; actualización semanal programada",
-  "publications": []
+  "generatedAt": "2026-11-16",
+  "source": "Crossref REST API; consultas temáticas; coincidencias de autor/afiliación no verificadas",
+  "publications": [
+    {
+      "assessment": {
+        "relevanceScore": 55,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Seguimiento y revisión de resumen",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1016/j.apenergy.2026.129141",
+      "name": "Robotic inspection and maintenance for energy infrastructure: a systematic review and future perspectives",
+      "date": "2027-01",
+      "journal": "Applied Energy",
+      "authors": "Zhengyu Tao; Naveen Kumar Muthumanickam; Shanti Pless; David Mascarenas; Zheng O'Neill; Xin Wang",
+      "affiliations": "",
+      "source": "https://doi.org/10.1016/j.apenergy.2026.129141",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 40,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1016/j.jmsy.2026.09.005",
+      "name": "Perception-driven admittance-based surface alignment for robotic visual inspection",
+      "date": "2026-12",
+      "journal": "Journal of Manufacturing Systems",
+      "authors": "Antara Banerjee; Colin Acton; Xu Chen",
+      "affiliations": "",
+      "source": "https://doi.org/10.1016/j.jmsy.2026.09.005",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 95,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Navegación y autonomía",
+          "Visión y datos",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection",
+            "defect",
+            "anomaly"
+          ],
+          "Navegación y autonomía": [
+            "navigation",
+            "slam",
+            "autonomous"
+          ],
+          "Visión y datos": [
+            "computer vision",
+            "lidar",
+            "detection"
+          ],
+          "Robótica de campo": [
+            "robot",
+            "uav"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Revisión técnica prioritaria",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.21203/rs.3.rs-11579944/v1",
+      "name": "Smart Robotic Inspection of Levees and Culverts: A Scoping Review of Robotic Platforms, Sensing Technologies, AI Methods, and Multi-Robot Coordination for Flood-Control Infrastructure",
+      "date": "2026-11-03",
+      "journal": "",
+      "authors": "Abhijeet Adamuthe; Prathamesh Koli; Chinmay More; Tejas Patil; Shreyas Wadkar; Miloshka Jennifer George Lima",
+      "affiliations": "D.Y. Patil College of Engineering & Technology; D.Y Patil College of Engineering & Technology",
+      "source": "https://doi.org/10.21203/rs.3.rs-11579944/v1",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 35,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1061/jmenea.meeng-7413",
+      "name": "Modeling Organizational Effectiveness of Human–Robot Collaboration in Construction",
+      "date": "2026-11-01",
+      "journal": "Journal of Management in Engineering",
+      "authors": "Song-Shun Lin",
+      "affiliations": "Tongji Univ.; National Univ. of Singapore",
+      "source": "https://doi.org/10.1061/jmenea.meeng-7413",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 35,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1016/j.aei.2026.104870",
+      "name": "Toward fine-grained construction safety inspection via vision-language grounded reasoning",
+      "date": "2026-11",
+      "journal": "Advanced Engineering Informatics",
+      "authors": "Xianrui Luo; Chengqian Li; Botao Gu; Dongping Fang",
+      "affiliations": "",
+      "source": "https://doi.org/10.1016/j.aei.2026.104870",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 35,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection",
+            "monitoring"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1016/j.measurement.2026.122735",
+      "name": "Quantum magnetometers for infrastructure inspection and monitoring",
+      "date": "2026-11",
+      "journal": "Measurement",
+      "authors": "Muhammad Mahmudul Hasan; Ingrid Torres; Alex Krasnok",
+      "affiliations": "",
+      "source": "https://doi.org/10.1016/j.measurement.2026.122735",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 75,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Visión y datos",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection",
+            "defect"
+          ],
+          "Visión y datos": [
+            "image"
+          ],
+          "Robótica de campo": [
+            "drone"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Revisión técnica prioritaria",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.71465/jgs84",
+      "name": "Adaptive Edge-Cloud Data Scheduling forUrban Infrastructure Inspection Systems",
+      "date": "2026-10-29",
+      "journal": "Journal of geospace science",
+      "authors": "Dai Teng",
+      "affiliations": "",
+      "source": "https://doi.org/10.71465/jgs84",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 35,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.3390/s26216805",
+      "name": "Digital Hammering Inspection for Social Infrastructure",
+      "date": "2026-10-28",
+      "journal": "Sensors",
+      "authors": "Yoshihiro Isobe; Takashi Matsunaga; Ryota Ogawa; Mitsuyuki Sagisaka; Hiroaki Fujiyoshi; Motomu Ishii; Jun Tomiyama; Tomonori Yamada",
+      "affiliations": "Engineering Service Department, Nuclear Fuel Industries, Ltd., Kumatori-cho 590-0481, Osaka, Japan; Civil Engineering Program, School of Engineering, University of the Ryukyus, Nishihara-cho 903-0213, Okinawa, Japan; Department of Systems Innovation, School of Engineering, The University of Tokyo, Tokyo 113-8656, Japan",
+      "source": "https://doi.org/10.3390/s26216805",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 95,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Navegación y autonomía",
+          "Visión y datos",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Navegación y autonomía": [
+            "slam"
+          ],
+          "Visión y datos": [
+            "image",
+            "lidar"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Revisión técnica prioritaria",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.3233/atde261179",
+      "name": "Design Analysis and Verification of a Multi-Terrain Adaptive Rescue Inspection Robot",
+      "date": "2026-10-12",
+      "journal": "Advances in Transdisciplinary Engineering",
+      "authors": "Shujian Tang; Nanfeng Zhang; Jiaqi Huang; Zinuo Chen; Wentao Song",
+      "affiliations": "School of Intelligent Manufacturing, Guangdong University of Science and Technology, Dongguan, Guangdong 523083, China",
+      "source": "https://doi.org/10.3233/atde261179",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 40,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection",
+            "monitoring"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.58532/nbennurv1b3450s2c2",
+      "name": "SEWAGE AND DRAIN INSPECTION MINI-ROBOT",
+      "date": "2026-10-01",
+      "journal": "IIP Series",
+      "authors": "Pooja Rajput; Yash Khade; Shreesh Adkar; Ganesh Vijay More",
+      "affiliations": "",
+      "source": "https://doi.org/10.58532/nbennurv1b3450s2c2",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 35,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.17226/29575",
+      "name": "Virtual Inspection Systems for Highway Construction Projects",
+      "date": "2026-10-01",
+      "journal": "",
+      "authors": "Yelda Turkan; Michael J. Olsen; Christopher Parrish; Heidar Rastiveis; Chase Simpson; Donghoon Ji; Dan Tran; Nhien Dinh Le; Roger Chen; Devin Harris; Mezgeen Rasol; Kaz Tabrizi; Eimar Boesjes; ; ; ",
+      "affiliations": "",
+      "source": "https://doi.org/10.17226/29575",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 35,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.17226/29530",
+      "name": "Virtual Inspection Systems for Highway Construction Projects",
+      "date": "2026-10-01",
+      "journal": "",
+      "authors": "Yelda Turkan; Michael J. Olsen; Christopher Parrish; Heidar Rastiveis; Chase Simpson; Donghoon Ji; Dan Tran; Nhien Dinh Le; Roger Chen; Devin Harris; Zhidong Zhang; Mezgeen Rasol; Kaz Tabrizi; Eimar Boesjes; ; ; ",
+      "affiliations": "",
+      "source": "https://doi.org/10.17226/29530",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 55,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Seguimiento y revisión de resumen",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1109/tie.2026.3682403",
+      "name": "An Air-Jet Continuum Robot for Industrial Integrated Fluidic Circuit Inspection",
+      "date": "2026-10",
+      "journal": "IEEE Transactions on Industrial Electronics",
+      "authors": "Lechen Sun; Yuanzhuo Li; Haosen Wang; Yongzhao Chen; Hongmei Zhang; Jie Han; Zhiguang Xing; Yongchang Zhang; Jianwen Zhao",
+      "affiliations": "Harbin Institute of Technology; Shanghai Turbine Works Company Ltd.; China National Nuclear Corporation Sanmen Nuclear Power Company Ltd.",
+      "source": "https://doi.org/10.1109/tie.2026.3682403",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 35,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1016/j.kscej.2026.100684",
+      "name": "CSIM: Conversation-based construction self-inspection management system for public projects",
+      "date": "2026-10",
+      "journal": "KSCE Journal of Civil Engineering",
+      "authors": "Meng-Han Tsai; Kuang-I Hsieh; Ren–Jie Li",
+      "affiliations": "",
+      "source": "https://doi.org/10.1016/j.kscej.2026.100684",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 55,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Robótica de campo": [
+            "drone"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Seguimiento y revisión de resumen",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1016/j.ejor.2026.04.046",
+      "name": "Drone station location and routing optimization for infrastructure inspection",
+      "date": "2026-10",
+      "journal": "European Journal of Operational Research",
+      "authors": "Peisong Liu; Xiangpei Hu; Chun Cheng",
+      "affiliations": "",
+      "source": "https://doi.org/10.1016/j.ejor.2026.04.046",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 55,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Seguimiento y revisión de resumen",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.66883/fejpr.v2.i4.000007",
+      "name": "Inspection Robot Using Accelerometer",
+      "date": "2026-09-30",
+      "journal": "Future Edge Journal of Progressive Research",
+      "authors": "Santosh shekokar; Tejas Ugale; Hemant Warake; Mehul Chaudhari; Kunal Lule; Nikhil Mandawale; Jayesh Mahajan; C. D. Patil",
+      "affiliations": "",
+      "source": "https://doi.org/10.66883/fejpr.v2.i4.000007",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 35,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection",
+            "defect"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.21474/ijar01/24228",
+      "name": "RISK-BASED INSPECTION AND QUALITY CONTROL OF ELECTRICAL INFRASTRUCTURE",
+      "date": "2026-09-30",
+      "journal": "International Journal of Advanced Research",
+      "authors": "Mohammed Abdul Lateef",
+      "affiliations": "",
+      "source": "https://doi.org/10.21474/ijar01/24228",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 95,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Navegación y autonomía",
+          "Visión y datos",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection",
+            "damage"
+          ],
+          "Navegación y autonomía": [
+            "navigation"
+          ],
+          "Visión y datos": [
+            "image"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Revisión técnica prioritaria",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.2118/232096-ms",
+      "name": "Rover-Oli, Robotic System for Online Inspection of Pressure Equipment",
+      "date": "2026-09-29",
+      "journal": "GOTECH",
+      "authors": "Antonino Gattarello; Andrea Vignali; Riccardo Schiavon; Guido Campana; Martino Danuso; Flavio Furlan; Tommaso Borzone",
+      "affiliations": "Eni SpA, San Donato Milanese, MI, Italy; Eniprogetti SpA, Venezia, VE, Italy",
+      "source": "https://doi.org/10.2118/232096-ms",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 40,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1007/978-3-032-39717-1_23",
+      "name": "Planning the Trajectory of Agricultural Inspection Robot via the Novel DM4 Metaheuristic",
+      "date": "2026-09-25",
+      "journal": "Communications in Computer and Information Science",
+      "authors": "Souhail Dhouib; Mariem Miledi; Saima Dhouib; Taicir Loukil",
+      "affiliations": "",
+      "source": "https://doi.org/10.1007/978-3-032-39717-1_23",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 95,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Navegación y autonomía",
+          "Visión y datos",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Navegación y autonomía": [
+            "localization",
+            "autonomous"
+          ],
+          "Visión y datos": [
+            "image",
+            "detection"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Revisión técnica prioritaria",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.3390/electronics15184079",
+      "name": "DPR-YOLOv9: Improved Object Detection for Robotic Cable Duct Inspection",
+      "date": "2026-09-09",
+      "journal": "Electronics",
+      "authors": "Wanyue Zhang; Peihui Yang; Xiaobin Sun; Yongxu Li; Wenqi Shen; Xianghua Zhang; Liangzhi Sun; Lin Zhang; Chuanwei Yu; Junshi Yang; Jianguo Liang; Yu-Ling He",
+      "affiliations": "State Grid Shandong Electric Power Company Liaocheng Power Supply Company, Liaocheng 252000, China; State Grid Shandong Electric Power Company Taian Power Supply Company, Taian 271000, China; State Grid Shandong Electric Power Company, Jinan 250001, China; Department of Mechanical Engineering, North China Electric Power University, Baoding 071003, China",
+      "source": "https://doi.org/10.3390/electronics15184079",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 35,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.20944/preprints202609.0217.v1",
+      "name": "Digital Hammering Inspection for Social Infrastructure",
+      "date": "2026-09-03",
+      "journal": "",
+      "authors": "Yoshihiro Isobe; Takashi Matsunaga; Ryota Ogawa; Mitsuyuki Sagisaka; Hiroaki Fujiyoshi; Motomu Ishii; Jun Tomiyama; Tomonori Yamada",
+      "affiliations": "",
+      "source": "https://doi.org/10.20944/preprints202609.0217.v1",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 60,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Visión y datos",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Visión y datos": [
+            "detection"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Seguimiento y revisión de resumen",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1007/978-981-92-3082-2_33",
+      "name": "Design of Lightweight Visual Detection Algorithm for Bionic Inspection Robot in Power Grid",
+      "date": "2026-09-02",
+      "journal": "Lecture Notes in Mechanical Engineering",
+      "authors": "Yulong Yuan; Bin Huang; Bo Xu; Aiguo Song",
+      "affiliations": "",
+      "source": "https://doi.org/10.1007/978-981-92-3082-2_33",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 40,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1007/978-981-92-4392-1_61",
+      "name": "Multi-robot Task Allocation for Power Inspection Based on Improved NSGA-II",
+      "date": "2026-09-01",
+      "journal": "Lecture Notes in Electrical Engineering",
+      "authors": "Wei Qian; Weihua Fan",
+      "affiliations": "",
+      "source": "https://doi.org/10.1007/978-981-92-4392-1_61",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 40,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Robótica de campo": [
+            "robot",
+            "uav"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1016/j.oceaneng.2026.127392",
+      "name": "Cooperative multi-robot routing for AUV–UAV inspection with inter-vehicle synchronization",
+      "date": "2026-09",
+      "journal": "Ocean Engineering",
+      "authors": "Alessandro Bucci; Lorenzo Cecchi; Alessandro Ridolfi",
+      "affiliations": "",
+      "source": "https://doi.org/10.1016/j.oceaneng.2026.127392",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 40,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1016/j.robot.2026.105510",
+      "name": "Robotic inspection of vertical surfaces in GNSS-denied environments",
+      "date": "2026-09",
+      "journal": "Robotics and Autonomous Systems",
+      "authors": "Arianna Rana; Antonio Petitti; Annalisa Milella",
+      "affiliations": "",
+      "source": "https://doi.org/10.1016/j.robot.2026.105510",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 95,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Visión y datos",
+          "BIM y gemelo digital",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection",
+            "defect"
+          ],
+          "Visión y datos": [
+            "detection"
+          ],
+          "BIM y gemelo digital": [
+            "digital twin"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Revisión técnica prioritaria",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.58286/34854",
+      "name": "Dual Robotic X-ray inspection of large industrial parts",
+      "date": "2026-09",
+      "journal": "e-Journal of Nondestructive Testing",
+      "authors": "; Marius Costin; ; Julie Escoda; ; Jitendra Singh Rathore",
+      "affiliations": "",
+      "source": "https://doi.org/10.58286/34854",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 60,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Navegación y autonomía",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Navegación y autonomía": [
+            "autonomous"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Seguimiento y revisión de resumen",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1109/ciced71805.2026.11763101",
+      "name": "A Vision-Based Autonomous Robotic Inspection Framework for Distribution Equipment",
+      "date": "2026-09",
+      "journal": "2026 China International Conference on Electricity Distribution (CICED)",
+      "authors": "Lingyin Zhang",
+      "affiliations": "University of Illinois Urbana-Champaign",
+      "source": "https://doi.org/10.1109/ciced71805.2026.11763101",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 95,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Navegación y autonomía",
+          "Visión y datos",
+          "BIM y gemelo digital"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection",
+            "defect",
+            "damage",
+            "anomaly",
+            "monitoring"
+          ],
+          "Navegación y autonomía": [
+            "localization"
+          ],
+          "Visión y datos": [
+            "detection"
+          ],
+          "BIM y gemelo digital": [
+            "digital twin",
+            "building information"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Revisión técnica prioritaria",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1007/s41024-026-00894-8",
+      "name": "A systematic review of digital twins for civil infrastructure inspection",
+      "date": "2026-09",
+      "journal": "Journal of Building Pathology and Rehabilitation",
+      "authors": "Jamiu Lateef; Xiong Bill Yu",
+      "affiliations": "",
+      "source": "https://doi.org/10.1007/s41024-026-00894-8",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 40,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.5143/jesk.2026.45.4.313",
+      "name": "Effects of Feedback Modality, Robot Speed, and Inspection Interval Regularity on Mental Workload and Gaze Behavior in Human-Robot Collaborative Visual Inspection",
+      "date": "2026-08-31",
+      "journal": "Journal of the Ergonomics Society of Korea",
+      "authors": "Won-Guk Hwang; Kyung-Min Kim; Han-Gyul Cho; Hyeon-Jong Yu; Young-Woo Kim",
+      "affiliations": "",
+      "source": "https://doi.org/10.5143/jesk.2026.45.4.313",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 35,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1061/9780784486986.077",
+      "name": "Examining Technical Competencies for Bridge Construction Inspection",
+      "date": "2026-08-27",
+      "journal": "Construction Research Congress 2026",
+      "authors": "Nhien Le; Daniel Tran; Christofer Harper; Roy Sturgill",
+      "affiliations": "Univ. of Kansas; Colorado State Univ.; Iowa State Univ.",
+      "source": "https://doi.org/10.1061/9780784486986.077",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 35,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1061/9780784486979.004",
+      "name": "Benchmarking Humanoid Robot Controllers for Contact-Rich Construction Tasks",
+      "date": "2026-08-27",
+      "journal": "Construction Research Congress 2026",
+      "authors": "Tianyu Ren; Yuming Zhang; Yizhi Liu; Houtan Jebelli",
+      "affiliations": "Univ. of Illinois Urbana-Champaign; Syracuse Univ.",
+      "source": "https://doi.org/10.1061/9780784486979.004",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 55,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Seguimiento y revisión de resumen",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1061/9780784486979.020",
+      "name": "Robotic Inspection and Maintenance of Energy Infrastructure: A Review",
+      "date": "2026-08-27",
+      "journal": "Construction Research Congress 2026",
+      "authors": "Xin Wang; Naveen Kumar Muthumanickam; Shanti Pless; David Mascarenas",
+      "affiliations": "Texas A&M Univ.; National Laboratory of the Rockies; Los Alamos National Laboratory",
+      "source": "https://doi.org/10.1061/9780784486979.020",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 55,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Robótica de campo": [
+            "robot",
+            "uav"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Seguimiento y revisión de resumen",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1007/s41693-026-00220-1",
+      "name": "UAV-enabled non-destructive testing for robotic infrastructure inspection: technologies, challenges and future directions",
+      "date": "2026-08-27",
+      "journal": "Construction Robotics",
+      "authors": "jan lean Tai; Mohammad Sohel",
+      "affiliations": "",
+      "source": "https://doi.org/10.1007/s41693-026-00220-1",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 75,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Navegación y autonomía",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Navegación y autonomía": [
+            "autonomous"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Revisión técnica prioritaria",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.3390/act15080435",
+      "name": "A Biomimetic Soft Robot for In-Pipe Inspection: Design, Development, and Experimental Validation",
+      "date": "2026-08-11",
+      "journal": "Actuators",
+      "authors": "Leonarda Došen; Jan Pelić; Goran Gregov; Ervin Kamenar",
+      "affiliations": "University of Rijeka, Faculty of Engineering, Vukovarska 58, 51000 Rijeka, Croatia",
+      "source": "https://doi.org/10.3390/act15080435",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 75,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Navegación y autonomía",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection",
+            "monitoring"
+          ],
+          "Navegación y autonomía": [
+            "autonomous"
+          ],
+          "Robótica de campo": [
+            "drone",
+            "uav"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Revisión técnica prioritaria",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.2118/235102-ms",
+      "name": "State-Adaptive Autonomous Drone Systems for Energy Infrastructure Inspection",
+      "date": "2026-08-10",
+      "journal": "SPE Nigeria Annual International Conference and Exhibition",
+      "authors": "G. I. Akanbi; O. M. Kolade; S. Akande; V. A. Adeleke; C. T. Abodunrin",
+      "affiliations": "Department of Electronic and Electrical Engineering, Obafemi Awolowo University, Ile-Ife, Osun State, Nigeria; Department of Mechanical Engineering, Obafemi Awolowo University, Ile-Ife, Osun State, Nigeria",
+      "source": "https://doi.org/10.2118/235102-ms",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 60,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "BIM y gemelo digital",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "BIM y gemelo digital": [
+            "digital twin"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Seguimiento y revisión de resumen",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1117/12.3119397",
+      "name": "Design and application of digital twin system for substation intelligent inspection robot",
+      "date": "2026-08-07",
+      "journal": "International Conference on Industrial IoT, Big Data, and Smart Cities (IIoTBDSC 2026)",
+      "authors": "Ming Fang; Jingjing Huang; Handong Lu; Dongmei Fan",
+      "affiliations": "",
+      "source": "https://doi.org/10.1117/12.3119397",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 40,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1049/icp.2026.2455",
+      "name": "Hybrid locomotion pipeline inspection robot",
+      "date": "2026-08-01",
+      "journal": "IET Conference Proceedings",
+      "authors": "Chunshuo Lin",
+      "affiliations": "School of Mechanical Engineering, Hebei University of Technology, Tianjin, People's Republic of China",
+      "source": "https://doi.org/10.1049/icp.2026.2455",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 55,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection",
+            "crack"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Seguimiento y revisión de resumen",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1016/j.autcon.2026.107006",
+      "name": "Integrated on-site inspection and repair wall-climbing robot of concrete cracks",
+      "date": "2026-08",
+      "journal": "Automation in Construction",
+      "authors": "Zhenqin Huang; Kang Gao; Shuyi He; Dandan Gu; Zida Chen",
+      "affiliations": "",
+      "source": "https://doi.org/10.1016/j.autcon.2026.107006",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 40,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Robótica de campo"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection"
+          ],
+          "Robótica de campo": [
+            "robot"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Archivo / relevancia por confirmar",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1109/case69030.2026.11704138",
+      "name": "Coupled Routing and Configuration Optimization for Multi-Viewpoint Robotic Inspection",
+      "date": "2026-08",
+      "journal": "2026 IEEE 22nd International Conference on Automation Science and Engineering (CASE)",
+      "authors": "Minh Nhat Vu; Khang Nguyen; Vu Trung Tran; Vien Ngo",
+      "affiliations": "Center for AI Research (CAIR), VinUniversity; MBZUAI; VinRobotics JSC",
+      "source": "https://doi.org/10.1109/case69030.2026.11704138",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "assessment": {
+        "relevanceScore": 55,
+        "scoreMethod": "Heurística por palabras del título y resumen; no prueba de viabilidad",
+        "technologyAreas": [
+          "Inspección y anomalías",
+          "Visión y datos"
+        ],
+        "evidenceKeywords": {
+          "Inspección y anomalías": [
+            "inspection",
+            "defect"
+          ],
+          "Visión y datos": [
+            "detection"
+          ]
+        },
+        "trl": "No determinado: requiere evidencia de prototipo, piloto o despliegue",
+        "commercialAvailability": "No verificada",
+        "integration": "Por estudiar: API/SDK, ROS2, sensores, BIM y datos",
+        "estimatedCost": "Desconocido; solicitar presupuesto y estimar CAPEX/OPEX",
+        "technicalRisk": "Sin evaluar",
+        "recommendation": "Seguimiento y revisión de resumen",
+        "nextValidation": "Leer artículo completo; identificar pruebas de campo, plataforma, datos, licencias y autores",
+        "assessmentStatus": "Preclasificación automática, pendiente de revisión humana"
+      },
+      "doi": "10.1007/s11554-026-01950-9",
+      "name": "Enhanced road infrastructure defect detection via attention-based visual inspection",
+      "date": "2026-07-29",
+      "journal": "Journal of Real-Time Image Processing",
+      "authors": "Ningbo Gao; Dupengfei Zhai; Guifang Shi; Guanya Hao; Yong Qi; Zi Yang",
+      "affiliations": "",
+      "source": "https://doi.org/10.1007/s11554-026-01950-9",
+      "peopleMatches": [],
+      "institutionMatches": [],
+      "technology": "Inspección / robótica / IA (clasificación preliminar)",
+      "application": "Evaluar posible aplicación a Robo-Inspector",
+      "priority": "Por evaluar",
+      "contactOpportunity": "Revisar autores y afiliaciones; contacto no confirmado",
+      "validation": "Candidato bibliográfico; vínculos no verificados",
+      "discoveredAt": "2026-11-16"
+    }
+  ]
 }
