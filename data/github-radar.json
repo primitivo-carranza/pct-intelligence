@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16",
-  "status": "Revisión parcial contrastada del 2026-11-16 (periodo observado 2026-11-09 a 2026-11-15): nuevas tecnologías y licencias de selección. Pendientes costes reales y pilotos técnicos.",
+  "generatedAt": "2026-11-23",
+  "status": "Revisión semanal 2026-11-23 (observación 2026-11-16 a 2026-11-22): 4 incorporaciones al radar, 14 registros existentes revisados; licencias verificadas en 10. Sin pilotos comerciales ni costes comprobados.",
   "records": [
     {
       "id": "infiniflow/ragflow",
@@ -12,20 +12,25 @@
       "priority": "Alta",
       "verification": "URL y licencia comprobadas 2026-11-16; viabilidad técnica/comercial pendiente",
       "license": "Apache-2.0",
-      "activity": "Repositorio con actividad pública 2026-11-13",
+      "activity": "Commits verificados del 2026-11-20 y 2026-11-22; no equivalen a release estable",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-16",
+      "reviewedAt": "2026-11-23",
       "licenseSource": "https://github.com/infiniflow/ragflow/blob/main/LICENSE",
-      "lastWeekFinding": "2026-11-13: actividad confirmada en organización; release 1.0 del 2026-11-06 es antecedente, no novedad de esta semana",
-      "evidence": "https://github.com/infiniflow/ragflow/releases",
+      "lastWeekFinding": "2026-11-20: cambio en segmentación por índice de capítulos para PDF y ajustes de parser; 2026-11-22: commit de declaración de licencia. Validar regresiones de extracción y términos comerciales.",
+      "evidence": "https://github.com/infiniflow/ragflow/commits/main",
       "integrations": "RAG y agentes; validar API de consulta documental",
-      "risk": "Migración a versión 1.0 requiere copia previa; cambios de arquitectura importantes",
+      "risk": "Confirmar condiciones aplicables tras el commit de 2026-11-22; validar extracción de tablas PDF y migración 1.0 antes de adoptar",
       "history": [
         {
           "date": "2026-11-16",
           "type": "revisión",
           "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        },
+        {
+          "date": "2026-11-23",
+          "type": "revisión",
+          "note": "Cambios fechados 20 y 22 de noviembre en commits oficiales; pendiente probar los efectos."
         }
       ]
     },
@@ -38,21 +43,27 @@
       "priority": "Alta",
       "verification": "URL y licencia comprobadas 2026-11-16; viabilidad técnica/comercial pendiente",
       "license": "MIT",
-      "activity": "Issues públicos abiertos 2026-11-13; no equivale a nueva versión",
+      "activity": "Commits confirmados los días 2026-11-20 y 2026-11-22; no equivalen a nueva versión",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-16",
+      "reviewedAt": "2026-11-23",
       "licenseSource": "https://github.com/docling-project/docling/blob/main/LICENSE",
-      "evidence": "https://github.com/docling-project/docling/issues",
-      "integrations": "Python, PDF, DOCX y tablas; estudiar extracción fiable de pliegos",
+      "evidence": "https://github.com/docling-project/docling/commits/main",
+      "integrations": "Ingesta multiformato de documentación EPC: verificar .msg, diapositivas, tablas, extracción multilingüe y API en piloto",
       "risk": "Validar OCR, tablas, notas y referencias con documentos EPC reales",
       "history": [
         {
           "date": "2026-11-16",
           "type": "revisión",
           "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        },
+        {
+          "date": "2026-11-23",
+          "type": "revisión",
+          "note": "Commits oficiales de 20 y 22 de noviembre; distinguir integraciones candidatas de pruebas realizadas."
         }
-      ]
+      ],
+      "lastWeekFinding": "2026-11-20: tracks de transcripciones de audio/vídeo y medios de diapositivas, mejora jerarquía de títulos multilingüe; 2026-11-22: corrección de UnicodeDecodeError en .msg."
     },
     {
       "id": "microsoft/graphrag",
@@ -151,12 +162,20 @@
       "utility": "Conversión de documentos técnicos",
       "url": "https://github.com/microsoft/markitdown",
       "priority": "Por evaluar",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
+      "verification": "Licencia del repositorio contrastada directamente el 2026-11-23; integración y costes aún por evaluar",
+      "license": "MIT",
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-23",
+      "licenseSource": "https://github.com/microsoft/markitdown/blob/main/LICENSE",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "type": "revisión",
+          "note": "Licencia consultada en archivo oficial del repositorio. Sin piloto de integración o análisis jurídico completo."
+        }
+      ]
     },
     {
       "id": "run-llama/llama_index",
@@ -165,12 +184,20 @@
       "utility": "Indexación de normas y manuales",
       "url": "https://github.com/run-llama/llama_index",
       "priority": "Por evaluar",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
+      "verification": "Licencia del repositorio contrastada directamente el 2026-11-23; integración y costes aún por evaluar",
+      "license": "MIT",
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-23",
+      "licenseSource": "https://github.com/run-llama/llama_index/blob/main/LICENSE",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "type": "revisión",
+          "note": "Licencia consultada en archivo oficial del repositorio. Sin piloto de integración o análisis jurídico completo."
+        }
+      ]
     },
     {
       "id": "langchain-ai/langchain",
@@ -179,12 +206,20 @@
       "utility": "Orquestación de asistentes",
       "url": "https://github.com/langchain-ai/langchain",
       "priority": "Por evaluar",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
+      "verification": "Licencia del repositorio contrastada directamente el 2026-11-23; integración y costes aún por evaluar",
+      "license": "MIT",
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-23",
+      "licenseSource": "https://github.com/langchain-ai/langchain/blob/master/LICENSE",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "type": "revisión",
+          "note": "Licencia consultada en archivo oficial del repositorio. Sin piloto de integración o análisis jurídico completo."
+        }
+      ]
     },
     {
       "id": "deepset-ai/haystack",
@@ -193,12 +228,20 @@
       "utility": "Buscador técnico",
       "url": "https://github.com/deepset-ai/haystack",
       "priority": "Por evaluar",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
+      "verification": "Licencia del repositorio contrastada directamente el 2026-11-23; integración y costes aún por evaluar",
+      "license": "Apache-2.0",
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-23",
+      "licenseSource": "https://github.com/deepset-ai/haystack/blob/main/LICENSE",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "type": "revisión",
+          "note": "Licencia consultada en archivo oficial del repositorio. Sin piloto de integración o análisis jurídico completo."
+        }
+      ]
     },
     {
       "id": "Unstructured-IO/unstructured",
@@ -447,10 +490,10 @@
       "priority": "Alta",
       "verification": "URL y licencia comprobadas 2026-11-16; viabilidad técnica/comercial pendiente",
       "license": "AGPL-3.0 o Enterprise",
-      "activity": "Pendiente",
+      "activity": "Organización ultralytics indica actualización del repositorio el 2026-11-22; release no verificada",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-16",
+      "reviewedAt": "2026-11-23",
       "licenseSource": "https://github.com/ultralytics/ultralytics/blob/main/LICENSE",
       "risk": "Revisar obligaciones AGPL y alternativa Enterprise antes de integrar modelos en Robo-Inspector cerrado",
       "history": [
@@ -458,8 +501,15 @@
           "date": "2026-11-16",
           "type": "revisión",
           "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        },
+        {
+          "date": "2026-11-23",
+          "type": "revisión",
+          "note": "Actividad de la semana en repositorio oficial; no es release."
         }
-      ]
+      ],
+      "evidence": "https://github.com/ultralytics",
+      "lastWeekFinding": "Actividad visible 2026-11-22; mantener revisión AGPL/Enterprise, no se infiere lanzamiento ni cambio de licencia"
     },
     {
       "id": "roboflow/supervision",
@@ -482,12 +532,20 @@
       "utility": "Procesamiento de imágenes",
       "url": "https://github.com/opencv/opencv",
       "priority": "Por evaluar",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
+      "verification": "Licencia del repositorio contrastada directamente el 2026-11-23; integración y costes aún por evaluar",
+      "license": "Apache-2.0",
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-23",
+      "licenseSource": "https://github.com/opencv/opencv/blob/4.x/LICENSE",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "type": "revisión",
+          "note": "Licencia consultada en archivo oficial del repositorio. Sin piloto de integración o análisis jurídico completo."
+        }
+      ]
     },
     {
       "id": "facebookresearch/sam2",
@@ -510,12 +568,20 @@
       "utility": "Detección industrial entrenable",
       "url": "https://github.com/open-mmlab/mmdetection",
       "priority": "Por evaluar",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
+      "verification": "Licencia del repositorio contrastada directamente el 2026-11-23; integración y costes aún por evaluar",
+      "license": "Apache-2.0",
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-23",
+      "licenseSource": "https://github.com/open-mmlab/mmdetection/blob/main/LICENSE",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "type": "revisión",
+          "note": "Licencia consultada en archivo oficial del repositorio. Sin piloto de integración o análisis jurídico completo."
+        }
+      ]
     },
     {
       "id": "open-mmlab/mmsegmentation",
@@ -552,12 +618,28 @@
       "utility": "Navegación autónoma",
       "url": "https://github.com/ros-navigation/navigation2",
       "priority": "Por evaluar",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
-      "activity": "Pendiente",
+      "verification": "Licencia del repositorio contrastada directamente el 2026-11-23; integración y costes aún por evaluar",
+      "license": "Licencias mixtas por paquete (LGPL-2.1+, Apache-2.0 y BSD-3-Clause)",
+      "activity": "Organización ros-navigation indica actualización del repositorio el 2026-11-21; no hay versión confirmada",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-23",
+      "licenseSource": "https://github.com/ros-navigation/navigation2/blob/main/LICENSE",
+      "risk": "Licencias diferentes entre paquetes ROS 2; auditar package.xml antes de redistribuir",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "type": "revisión",
+          "note": "Licencia consultada en archivo oficial del repositorio. Sin piloto de integración o análisis jurídico completo."
+        },
+        {
+          "date": "2026-11-23",
+          "type": "revisión",
+          "note": "Fecha de actividad observada en el listado oficial de la organización; no afirmar release."
+        }
+      ],
+      "evidence": "https://github.com/ros-navigation",
+      "lastWeekFinding": "Actualización de repositorio observada el 2026-11-21. Comprobar commits, distribución ROS 2 y compatibilidad antes de desplegar."
     },
     {
       "id": "open-rmf/rmf",
@@ -580,12 +662,21 @@
       "utility": "Fotogrametría y modelos 3D",
       "url": "https://github.com/OpenDroneMap/ODM",
       "priority": "Por evaluar",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
+      "verification": "Licencia del repositorio contrastada directamente el 2026-11-23; integración y costes aún por evaluar",
+      "license": "AGPL-3.0",
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-23",
+      "licenseSource": "https://github.com/OpenDroneMap/ODM/blob/master/LICENSE",
+      "risk": "AGPL-3.0: revisar implicaciones de integración y distribución comercial",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "type": "revisión",
+          "note": "Licencia consultada en archivo oficial del repositorio. Sin piloto de integración o análisis jurídico completo."
+        }
+      ]
     },
     {
       "id": "isl-org/Open3D",
@@ -594,12 +685,20 @@
       "utility": "Comparación de nubes de puntos",
       "url": "https://github.com/isl-org/Open3D",
       "priority": "Por evaluar",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
+      "verification": "Licencia del repositorio contrastada directamente el 2026-11-23; integración y costes aún por evaluar",
+      "license": "MIT",
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-23",
+      "licenseSource": "https://github.com/isl-org/Open3D/blob/main/LICENSE",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "type": "revisión",
+          "note": "Licencia consultada en archivo oficial del repositorio. Sin piloto de integración o análisis jurídico completo."
+        }
+      ]
     },
     {
       "id": "IntelRealSense/librealsense",
@@ -894,12 +993,20 @@
       "utility": "Predicción de desviaciones",
       "url": "https://github.com/scikit-learn/scikit-learn",
       "priority": "Por evaluar",
-      "verification": "Pendiente de verificar",
-      "license": "Pendiente",
+      "verification": "Licencia del repositorio contrastada directamente el 2026-11-23; integración y costes aún por evaluar",
+      "license": "BSD-3-Clause",
       "activity": "Pendiente",
       "cost": "Pendiente",
       "decision": "Evaluar",
-      "reviewedAt": "2026-11-14"
+      "reviewedAt": "2026-11-23",
+      "licenseSource": "https://github.com/scikit-learn/scikit-learn/blob/main/COPYING",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "type": "revisión",
+          "note": "Licencia consultada en archivo oficial del repositorio. Sin piloto de integración o análisis jurídico completo."
+        }
+      ]
     },
     {
       "id": "unit8co/darts",
@@ -1159,7 +1266,7 @@
       "cost": "Coste de desarrollo/despliegue no evaluado",
       "maturity": "Repositorio público activo; sin piloto PCT",
       "decision": "Evaluar mediante prueba técnica",
-      "reviewedAt": "2026-11-16",
+      "reviewedAt": "2026-11-23",
       "repo": "ros-navigation/navigation2_dynamic",
       "category": "Robo-Inspector",
       "utility": "Percepción y seguimiento de obstáculos móviles para navegación segura del robot inspector en plantas en operación",
@@ -1168,14 +1275,21 @@
       "licenseSource": "https://github.com/ros-navigation/navigation2_dynamic/blob/master/LICENSE",
       "integrations": "ROS 2 Navigation2; revisar compatibilidad de distribución",
       "risk": "Validar seguridad funcional y sensores en planta, no usar directamente como función de seguridad",
-      "evidence": "https://github.com/ros-navigation/navigation2_dynamic",
+      "evidence": "https://github.com/ros-navigation",
       "history": [
         {
           "date": "2026-11-16",
           "type": "alta",
           "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        },
+        {
+          "date": "2026-11-23",
+          "type": "revisión",
+          "note": "Actividad de repositorio fechada en el listado oficial de organización; sin piloto."
         }
-      ]
+      ],
+      "activity": "Organización ros-navigation indica actualización el 2026-11-16; no equivale a release",
+      "lastWeekFinding": "Actividad observada 2026-11-16; investigar estabilidad del pipeline de obstáculos dinámicos en sensores del robot"
     },
     {
       "id": "ThatOpen/engine_fragment",
@@ -1198,6 +1312,110 @@
           "date": "2026-11-16",
           "type": "alta",
           "note": "Verificación pública de repositorio, licencia y aplicabilidad a PCT; sin prueba de integración ni coste acreditado."
+        }
+      ]
+    },
+    {
+      "id": "specklesystems/specklepy",
+      "repo": "specklesystems/specklepy",
+      "category": "BIM y construcción",
+      "utility": "Conectar modelos y datos AEC/BIM en Python para integrar IFC, mediciones y cambios en plataforma EPC",
+      "url": "https://github.com/specklesystems/specklepy",
+      "priority": "Alta",
+      "license": "Apache-2.0 (posibles excepciones por módulo)",
+      "licenseSource": "https://github.com/specklesystems/specklepy/blob/main/LICENSE",
+      "verification": "URL, titular y licencia contrastados 2026-11-23; prototipo pendiente",
+      "activity": "Repositorio oficial accesible; sin novedad semanal fechada comprobada",
+      "maturity": "SDK oficial público; madurez para PCT no evaluada",
+      "integrations": "SDK Python, Speckle API y Speckle Server; verificar interoperabilidad con IFC/PCT",
+      "risk": "Auditar licencias de módulos específicos y estrategia de alojamiento/autenticación",
+      "cost": "Costes de implantación, servidor y soporte no verificados",
+      "decision": "Piloto de intercambio de datos BIM",
+      "reviewedAt": "2026-11-23",
+      "evidence": "https://github.com/specklesystems/specklepy",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "type": "alta de radar",
+          "note": "Incorporado por utilidad EPC/BIM; no se afirma que el proyecto se creara esta semana"
+        }
+      ]
+    },
+    {
+      "id": "ros-navigation/navigation2.ai",
+      "repo": "ros-navigation/navigation2.ai",
+      "category": "Robo-Inspector",
+      "utility": "Investigar estimación de profundidad con IA y proyección a nubes de puntos para navegación del Robo-Inspector",
+      "url": "https://github.com/ros-navigation/navigation2.ai",
+      "priority": "Por evaluar",
+      "license": "Apache-2.0",
+      "licenseSource": "https://github.com/ros-navigation/navigation2.ai/blob/main/LICENSE",
+      "verification": "URL, finalidad y licencia contrastados 2026-11-23; sin validación funcional",
+      "activity": "Organización ros-navigation indica actualización 2026-11-16; sin release acreditada",
+      "maturity": "Experimental: repositorio pequeño con demostraciones; no apto para seguridad funcional sin evaluación",
+      "integrations": "ROS 2 composable nodes, DepthAnything V3, nube de puntos; revisar dependencias y distribución",
+      "risk": "Depth AI monocular no reemplaza sensores de seguridad ni protección anticolisión certificada",
+      "cost": "Costes de sensores, GPU, entrenamiento e integración no verificados",
+      "decision": "Prueba en simulación antes de usar en planta",
+      "reviewedAt": "2026-11-23",
+      "evidence": "https://github.com/ros-navigation/navigation2.ai",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "type": "alta de radar",
+          "note": "Repositorio oficial de demostraciones IA de Nav2; actualización observada el 16/11, no lanzamiento confirmado"
+        }
+      ]
+    },
+    {
+      "id": "dagster-io/skills",
+      "repo": "dagster-io/skills",
+      "category": "Automatización y vigilancia",
+      "utility": "Ayudar a Codex a construir pipelines auditables para la vigilancia y actualización de fuentes de PCT Intelligence",
+      "url": "https://github.com/dagster-io/skills",
+      "priority": "Por evaluar",
+      "license": "Apache-2.0",
+      "licenseSource": "https://github.com/dagster-io/skills/blob/master/LICENSE",
+      "verification": "URL, documentación y licencia contrastados 2026-11-23; utilidad práctica pendiente",
+      "activity": "Organización dagster-io indica actualización 2026-11-19; no confundir con nueva versión del orquestador",
+      "maturity": "Colección de instrucciones para agentes; no ejecuta pipelines por sí sola",
+      "integrations": "Codex, Claude Code, Cursor, GitHub Copilot; soporte para Dagster y Dagster+ MCP",
+      "risk": "Revisar instrucciones de terceros y permisos de agentes antes de ejecutar comandos",
+      "cost": "No auditado; servicios Dagster+ comerciales pueden ser adicionales",
+      "decision": "Probar en entorno de desarrollo sin permisos de producción",
+      "reviewedAt": "2026-11-23",
+      "evidence": "https://github.com/dagster-io/skills",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "type": "alta de radar",
+          "note": "Colección de ayuda al desarrollo; no se considera aplicación ejecutable autónoma"
+        }
+      ]
+    },
+    {
+      "id": "ultralytics/skills",
+      "repo": "ultralytics/skills",
+      "category": "Robo-Inspector",
+      "utility": "Guiar el desarrollo con Codex de modelos de detección, tracking y exportación para inspección visual en obra",
+      "url": "https://github.com/ultralytics/skills",
+      "priority": "Por evaluar",
+      "license": "AGPL-3.0; Ultralytics ofrece licencia Enterprise",
+      "licenseSource": "https://github.com/ultralytics/skills/blob/main/LICENSE",
+      "verification": "URL y licencia contrastadas 2026-11-23; coste Enterprise no contrastado",
+      "activity": "Organización ultralytics indica actualización 2026-11-20; no equivale a nueva versión de YOLO",
+      "maturity": "Skills de desarrollo; no son un modelo de seguridad industrial ni una solución completa",
+      "integrations": "Codex y otras herramientas de programación; flujo de entrenamiento, exportación e inferencia YOLO",
+      "risk": "Auditar AGPL-3.0/Enterprise, privacidad de imágenes y cargas externas antes de usar con clientes",
+      "cost": "Tarifa Enterprise no verificada; costes de datos y GPU pendientes",
+      "decision": "Evaluar solo en datos sintéticos/públicos",
+      "reviewedAt": "2026-11-23",
+      "evidence": "https://github.com/ultralytics/skills",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "type": "alta de radar",
+          "note": "Ayuda de agentes para visión artificial, separada de tecnología EPC/Construcción"
         }
       ]
     }
@@ -1225,7 +1443,7 @@
       }
     }
   ],
-  "coverage": "Radar tecnológico GitHub autónomo; no afecta al radar de Construcción. 69 repositorios activos; 7 altas; 1 duplicado canónico fusionado.",
+  "coverage": "Radar tecnológico GitHub independiente de construcción; 73 repositorios. Prioridad informativa, no aprobación de implantación.",
   "reviews": [
     {
       "date": "2026-11-16",
@@ -1276,6 +1494,57 @@
         "https://github.com/ultralytics/ultralytics/blob/main/LICENSE",
         "https://github.com/langgenius/dify/blob/main/LICENSE"
       ]
+    },
+    {
+      "date": "2026-11-23",
+      "periodStart": "2026-11-16",
+      "periodEnd": "2026-11-22",
+      "previousCount": 69,
+      "newCount": 73,
+      "newRepos": [
+        "specklesystems/specklepy",
+        "ros-navigation/navigation2.ai",
+        "dagster-io/skills",
+        "ultralytics/skills"
+      ],
+      "updatedRepos": [
+        "microsoft/markitdown",
+        "run-llama/llama_index",
+        "langchain-ai/langchain",
+        "deepset-ai/haystack",
+        "opencv/opencv",
+        "open-mmlab/mmdetection",
+        "ros-navigation/navigation2",
+        "OpenDroneMap/ODM",
+        "isl-org/Open3D",
+        "scikit-learn/scikit-learn",
+        "infiniflow/ragflow",
+        "docling-project/docling",
+        "ros-navigation/navigation2_dynamic",
+        "ultralytics/ultralytics"
+      ],
+      "licenseCheckedExisting": 10,
+      "headlines": [
+        "Docling: commits 20 y 22/11, extracción multiformato y corrección .msg",
+        "RAGFlow: cambios de parser y declaración de licencia 20-22/11",
+        "Nav2: actividad del repositorio 21/11; versión estable no confirmada",
+        "Ultralytics: actividad observada 22/11; revisión AGPL comercial"
+      ],
+      "sources": [
+        "https://github.com/docling-project/docling/commits/main",
+        "https://github.com/infiniflow/ragflow/commits/main",
+        "https://github.com/ros-navigation",
+        "https://github.com/ultralytics",
+        "https://github.com/dagster-io/skills",
+        "https://github.com/specklesystems/specklepy"
+      ],
+      "notes": "Alta en el radar no equivale a creación del proyecto en esta semana. Se comprobaron licencias de archivos oficiales; sin pruebas PCT ni costes auditados. Las fechas de actividad listadas por organizaciones no prueban versiones."
     }
-  ]
+  ],
+  "lastVerification": {
+    "date": "2026-11-23",
+    "periodStart": "2026-11-16",
+    "periodEnd": "2026-11-22",
+    "method": "GitHub oficial: licencias, repositorios, commits y actividades públicas; cambios de código no equivalen a releases"
+  }
 }
