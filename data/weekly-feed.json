@@ -9,11 +9,11 @@
       "epc": "EPC por paquete; no confirmado en la fuente consultada",
       "phase": "Construcción; sección NDS2 con canalización civil completada según comunicado 07/04/2026",
       "source": "https://www.amprion.net/Presse/Presse-Detailseite_93057.html",
-      "verifiedAt": "2026-11-16",
+      "verifiedAt": "2026-11-23",
       "basis": "Fuente pública de promotor. Fechas previstas no equivalen a contratos abiertos.",
       "evidence": "https://www.amprion.net/Presse/Presse-Detailseite_93057.html",
       "id": "projects-8e06f0629c082763",
-      "verificationResult": "Sin cambio de fase semanal acreditado en las fuentes consultadas; se conserva el estado previo. CAPEX y nuevos paquetes de contratación no confirmados."
+      "verificationResult": "Reconsulta 23/11/2026 para la semana 16–22/11: sin cambio de fase acreditado; estado previo conservado, sin contrato nuevo validado."
     },
     {
       "name": "DolWin4",
@@ -24,11 +24,11 @@
       "epc": "No confirmado en la fuente consultada",
       "phase": "Construcción; puesta en marcha prevista a finales de 2028",
       "source": "https://www.amprion.net/Netzausbau/Unsere-Projekte/DolWin4-und-BorWin4/Projektfortschritt.html",
-      "verifiedAt": "2026-11-16",
+      "verifiedAt": "2026-11-23",
       "basis": "Fuente pública de promotor. Fechas previstas no equivalen a contratos abiertos.",
       "evidence": "https://www.amprion.net/Netzausbau/Unsere-Projekte/DolWin4-und-BorWin4/Projektfortschritt.html",
       "id": "projects-48b6459fa7ad7a60",
-      "verificationResult": "Sin cambio de fase semanal acreditado en las fuentes consultadas; se conserva el estado previo. CAPEX y nuevos paquetes de contratación no confirmados."
+      "verificationResult": "Reconsulta 23/11/2026 para la semana 16–22/11: sin cambio de fase acreditado; estado previo conservado, sin contrato nuevo validado."
     },
     {
       "name": "BorWin4",
@@ -39,11 +39,11 @@
       "epc": "No confirmado en la fuente consultada",
       "phase": "Construcción; puesta en marcha prevista a finales de 2028",
       "source": "https://www.amprion.net/Netzausbau/Unsere-Projekte/DolWin4-und-BorWin4/Projektfortschritt.html",
-      "verifiedAt": "2026-11-16",
+      "verifiedAt": "2026-11-23",
       "basis": "Fuente pública de promotor. Fechas previstas no equivalen a contratos abiertos.",
       "evidence": "https://www.amprion.net/Netzausbau/Unsere-Projekte/DolWin4-und-BorWin4/Projektfortschritt.html",
       "id": "projects-99e0483df9cbd688",
-      "verificationResult": "Sin cambio de fase semanal acreditado en las fuentes consultadas; se conserva el estado previo. CAPEX y nuevos paquetes de contratación no confirmados."
+      "verificationResult": "Reconsulta 23/11/2026 para la semana 16–22/11: sin cambio de fase acreditado; estado previo conservado, sin contrato nuevo validado."
     },
     {
       "name": "Terminal LNG terrestre Brunsbüttel",
@@ -54,12 +54,94 @@
       "epc": "CS Gas North (Cobra / Sener); fuente del contratista enlazada en evidencia",
       "phase": "En construcción; operación prevista en 2027",
       "source": "https://germanlng.com/unternehmensprofil/",
-      "verifiedAt": "2026-11-16",
+      "verifiedAt": "2026-11-23",
       "basis": "Fuente pública de promotor. Fechas previstas no equivalen a contratos abiertos.",
       "evidence": "https://www.ballast-nedam.com/news/2025/construction-contract-for-sea-jetty-brunsbuettel-germany",
       "id": "projects-3504b7f2095eb1d9",
-      "verificationResult": "Sin cambio de fase semanal acreditado en las fuentes consultadas; se conserva el estado previo. CAPEX y nuevos paquetes de contratación no confirmados.",
+      "verificationResult": "Reconsulta 23/11/2026 para la semana 16–22/11: sin cambio de fase acreditado; estado previo conservado, sin contrato nuevo validado.",
       "procurementSource": "https://germanlng.com/ausschreibungen/"
+    },
+    {
+      "id": "projects-versmar-everswinkel",
+      "name": "Subestación Versmar (Everswinkel)",
+      "country": "Alemania",
+      "sector": "Redes eléctricas",
+      "capex": "",
+      "owner": "Amprion",
+      "epc": "No confirmado en las fuentes consultadas",
+      "phase": "Planificación temprana; terrenos adquiridos, solicitud de permiso prevista en 2032",
+      "source": "https://www.amprion.net/Presse/Presse-Detailseite_102529.html",
+      "verifiedAt": "2026-11-23",
+      "evidence": "Anuncio 20/11/2026; puesta en servicio prevista en 2035. No inicio de obra.",
+      "basis": "Investigación pública directa. CAPEX en millones EUR; vacío = desconocido. No implica disponibilidad de contratos.",
+      "location": "Al norte de Alverskirchen, Everswinkel (Renania del Norte-Westfalia)",
+      "announcementDate": "2026-11-20"
+    },
+    {
+      "id": "projects-rhein-main-link",
+      "name": "Rhein-Main-Link",
+      "country": "Alemania",
+      "sector": "Redes eléctricas HVDC",
+      "capex": "",
+      "owner": "Amprion",
+      "epc": "No confirmado en las fuentes consultadas",
+      "phase": "Planificación del cruce de la Weser; campaña geotécnica anunciada para semana del 23/11",
+      "source": "https://www.amprion.net/Presse/Presse-Detailseite_102336.html",
+      "verifiedAt": "2026-11-23",
+      "evidence": "Publicación 16/11/2026; dos puntos de sondeo cerca de la esclusa Schlüsselburg. No acredita inicio de construcción de toda la conexión.",
+      "basis": "Investigación pública directa. CAPEX en millones EUR; vacío = desconocido. No implica disponibilidad de contratos.",
+      "location": "Cruce de la Weser cerca de Schlüsselburg, Alemania",
+      "announcementDate": "2026-11-16"
+    },
+    {
+      "id": "projects-stadorf-bess",
+      "name": "BESS Stadorf",
+      "country": "Alemania",
+      "sector": "Almacenamiento eléctrico BESS",
+      "capex": "",
+      "owner": "Elements Green Deutschland GmbH",
+      "epc": "No confirmado en las fuentes consultadas",
+      "phase": "Desarrollo; acuerdo de conexión firmado con TenneT, sin FID acreditada en esta fuente",
+      "source": "https://elementsgreen.com/news/elements-green-signs-grid-connection-agreement-with-tennet-germany-for-1-6-gwh-stadorf-battery-storage-project/",
+      "verifiedAt": "2026-11-23",
+      "evidence": "Anuncio 16/11/2026: 400 MW / 1.600 MWh previstos. Acuerdo de construcción de conexión firmado en octubre; no contrato abierto para PCT.",
+      "basis": "Investigación pública directa. CAPEX en millones EUR; vacío = desconocido. No implica disponibilidad de contratos.",
+      "location": "Stadorf, Baja Sajonia",
+      "announcementDate": "2026-11-16"
+    },
+    {
+      "id": "projects-leopoldshoehe-bess",
+      "name": "BESS Leopoldshöhe",
+      "country": "Alemania",
+      "sector": "Almacenamiento eléctrico BESS",
+      "capex": "",
+      "owner": "Voltwise",
+      "epc": "No confirmado en las fuentes consultadas",
+      "phase": "Financiación de proyecto anunciada; el comunicado jurídico no acredita por sí solo inicio físico de obras",
+      "source": "https://www.cliffordchance.com/news/news/2026/11/energy-transition-clifford-chance-advises-voltwise-on-the-financing-of-a-56-mw-battery-storage-project-in-germany.html",
+      "verifiedAt": "2026-11-23",
+      "evidence": "Publicación 20/11/2026 del asesor de financiación; BESS de 56 MW, deuda a plazo y circulante. Importe no publicado.",
+      "basis": "Investigación pública directa. CAPEX en millones EUR; vacío = desconocido. No implica disponibilidad de contratos.",
+      "location": "Leopoldshöhe, cerca de Bielefeld, Renania del Norte-Westfalia",
+      "announcementDate": "2026-11-20"
+    },
+    {
+      "id": "projects-tampere-emethane",
+      "name": "Planta de e-metano Tampere",
+      "country": "Finlandia",
+      "sector": "Hidrógeno / e-metano / utilización de CO₂",
+      "capex": ">300",
+      "owner": "Nordic Ren-Gas",
+      "epc": "No confirmado en las fuentes consultadas",
+      "phase": "FID y financiación asegurada; inicio de construcción anunciado como inmediato, finalización prevista en 2029",
+      "source": "https://ren-gas.com/news/nordic-ren-gas-tampere-project-becomes-worlds-largest-e-methane-facility-to-reach-final-investment-decision/",
+      "verifiedAt": "2026-11-23",
+      "evidence": "https://www.eib.org/en/press/all/2026-428-finnish-renewable-energy-producer-nordic-ren-gas-to-build-e-methane-plant-in-tampere-with-eib-loan-of-eur60-million",
+      "basis": "Investigación pública directa. CAPEX en millones EUR; vacío = desconocido. No implica disponibilidad de contratos.",
+      "location": "Tampere, Finlandia",
+      "announcementDate": "2026-11-20",
+      "capexBasis": "Inversión superior a 300 M€; no valor exacto. Préstamo BEI de 60 M€ es financiación, no CAPEX adicional.",
+      "financeSource": "https://www.eib.org/en/press/all/2026-428-finnish-renewable-energy-producer-nordic-ren-gas-to-build-e-methane-plant-in-tampere-with-eib-loan-of-eur60-million"
     }
   ],
   "signals": [
@@ -173,6 +255,118 @@
       "verifiedAt": "2026-11-16",
       "evidence": "Resumen del fabricante publicado 11/11; foro celebrado en Zúrich 28–29/10/2026. Fuente recuperada en buscador; apertura directa agotó tiempo.",
       "basis": "Declaraciones del proveedor; país del evento, no país de una obra. Referencia breve; boletín del robo-inspector independiente."
+    },
+    {
+      "id": "signals-versmar-everswinkel-2026-11-20",
+      "name": "Subestación Versmar (Everswinkel): Adquisición de terrenos",
+      "country": "Alemania",
+      "sector": "Redes eléctricas",
+      "kind": "Adquisición de terrenos",
+      "date": "2026-11-20",
+      "source": "https://www.amprion.net/Presse/Presse-Detailseite_102529.html",
+      "status": "Publicación 16–22/11/2026; verificada el 23/11/2026",
+      "verifiedAt": "2026-11-23",
+      "evidence": "Anuncio 20/11/2026; puesta en servicio prevista en 2035. No inicio de obra.",
+      "impact": "Hipótesis PCT: Seguimiento a largo plazo; no tratar como contratación inmediata.",
+      "basis": "Hecho de la fuente; acción comercial inferida, sin demanda de personal acreditada."
+    },
+    {
+      "id": "signals-rhein-main-link-2026-11-16",
+      "name": "Rhein-Main-Link: Investigaciones geotécnicas anunciadas",
+      "country": "Alemania",
+      "sector": "Redes eléctricas HVDC",
+      "kind": "Investigaciones geotécnicas anunciadas",
+      "date": "2026-11-16",
+      "source": "https://www.amprion.net/Presse/Presse-Detailseite_102336.html",
+      "status": "Publicación 16–22/11/2026; verificada el 23/11/2026",
+      "verifiedAt": "2026-11-23",
+      "evidence": "Publicación 16/11/2026; dos puntos de sondeo cerca de la esclusa Schlüsselburg. No acredita inicio de construcción de toda la conexión.",
+      "impact": "Hipótesis PCT: Cualificar necesidades futuras de supervisión de cruces y QA/QC; no oferta abierta confirmada.",
+      "basis": "Hecho de la fuente; acción comercial inferida, sin demanda de personal acreditada."
+    },
+    {
+      "id": "signals-stadorf-bess-2026-11-16",
+      "name": "BESS Stadorf: Acuerdo de conexión de red",
+      "country": "Alemania",
+      "sector": "Almacenamiento eléctrico BESS",
+      "kind": "Acuerdo de conexión de red",
+      "date": "2026-11-16",
+      "source": "https://elementsgreen.com/news/elements-green-signs-grid-connection-agreement-with-tennet-germany-for-1-6-gwh-stadorf-battery-storage-project/",
+      "status": "Publicación 16–22/11/2026; verificada el 23/11/2026",
+      "verifiedAt": "2026-11-23",
+      "evidence": "Anuncio 16/11/2026: 400 MW / 1.600 MWh previstos. Acuerdo de construcción de conexión firmado en octubre; no contrato abierto para PCT.",
+      "impact": "Hipótesis PCT: Cualificar paquetes de conexión, supervisión eléctrica y commissioning; confirmar FID y EPC.",
+      "basis": "Hecho de la fuente; acción comercial inferida, sin demanda de personal acreditada."
+    },
+    {
+      "id": "signals-leopoldshoehe-bess-2026-11-20",
+      "name": "BESS Leopoldshöhe: Financiación de proyecto",
+      "country": "Alemania",
+      "sector": "Almacenamiento eléctrico BESS",
+      "kind": "Financiación de proyecto",
+      "date": "2026-11-20",
+      "source": "https://www.cliffordchance.com/news/news/2026/11/energy-transition-clifford-chance-advises-voltwise-on-the-financing-of-a-56-mw-battery-storage-project-in-germany.html",
+      "status": "Publicación 16–22/11/2026; verificada el 23/11/2026",
+      "verifiedAt": "2026-11-23",
+      "evidence": "Publicación 20/11/2026 del asesor de financiación; BESS de 56 MW, deuda a plazo y circulante. Importe no publicado.",
+      "impact": "Hipótesis PCT: Verificar con promotor calendario de ejecución, EPC y paquetes de commissioning.",
+      "basis": "Hecho de la fuente; acción comercial inferida, sin demanda de personal acreditada."
+    },
+    {
+      "id": "signals-tampere-emethane-2026-11-20",
+      "name": "Planta de e-metano Tampere: FID y financiación",
+      "country": "Finlandia",
+      "sector": "Hidrógeno / e-metano / utilización de CO₂",
+      "kind": "FID y financiación",
+      "date": "2026-11-20",
+      "source": "https://ren-gas.com/news/nordic-ren-gas-tampere-project-becomes-worlds-largest-e-methane-facility-to-reach-final-investment-decision/",
+      "status": "Publicación 16–22/11/2026; verificada el 23/11/2026",
+      "verifiedAt": "2026-11-23",
+      "evidence": "https://www.eib.org/en/press/all/2026-428-finnish-renewable-energy-producer-nordic-ren-gas-to-build-e-methane-plant-in-tampere-with-eib-loan-of-eur60-million",
+      "impact": "Hipótesis PCT: Prioridad de cualificación: identificar EPC y paquetes de montaje, QA/QC y commissioning; no contrato para PCT acreditado.",
+      "basis": "Hecho de la fuente; acción comercial inferida, sin demanda de personal acreditada."
+    },
+    {
+      "id": "signals-ewi-hydrogen-monitor",
+      "name": "EWI: menores planes de electrólisis hasta 2030",
+      "country": "Alemania",
+      "sector": "Hidrógeno",
+      "kind": "Informe de investigación",
+      "date": "2026-11-16",
+      "source": "https://www.ewi.uni-koeln.de/en/aktuelles/elektrolyse-plaene-bis-2030-schrumpfen-um-ein-drittel/",
+      "evidence": "EWI estima 5,6 GW anunciados en Alemania hasta 2030, frente a 8,6 GW en marzo. Universo del monitor, no cartera de contratos.",
+      "impact": "Hipótesis PCT: priorizar proyectos con FID y offtake, evitando convertir capacidad anunciada en obra.",
+      "status": "Publicación 16–22/11/2026; verificada el 23/11/2026",
+      "verifiedAt": "2026-11-23",
+      "basis": "Fuente primaria; contexto separado de contratos."
+    },
+    {
+      "id": "signals-iea-weo-2026",
+      "name": "IEA publica World Energy Outlook 2026",
+      "country": "Internacional",
+      "sector": "Energía / redes / gas",
+      "kind": "Informe de escenarios",
+      "date": "2026-11-19",
+      "source": "https://www.iea.org/reports/world-energy-outlook-2026",
+      "evidence": "Publicación de escenarios energéticos; no adjudicación ni cartera financiada.",
+      "impact": "Hipótesis PCT: usar escenarios para contexto; contrastar cada inversión con promotor y FID.",
+      "status": "Publicación 16–22/11/2026; verificada el 23/11/2026",
+      "verifiedAt": "2026-11-23",
+      "basis": "Fuente primaria; contexto separado de contratos."
+    },
+    {
+      "id": "signals-iea-weather-shipping",
+      "name": "IEA: riesgos meteorológicos del transporte de petróleo y gas",
+      "country": "Internacional",
+      "sector": "Gas / LNG / mantenimiento industrial",
+      "kind": "Informe técnico",
+      "date": "2026-11-18",
+      "source": "https://www.iea.org/reports/extreme-weather-risks-to-international-oil-and-natural-gas-shipping",
+      "evidence": "Analiza exposición de puertos, terminales y rutas a fenómenos meteorológicos; no crea una obligación regulatoria.",
+      "impact": "Hipótesis PCT: revisar resiliencia y mantenimiento de terminales con alcances verificables.",
+      "status": "Publicación 16–22/11/2026; verificada el 23/11/2026",
+      "verifiedAt": "2026-11-23",
+      "basis": "Fuente primaria; contexto separado de contratos."
     }
   ],
   "competitors": [
@@ -216,6 +410,39 @@
       "id": "clients-e9cc11972f5d0366",
       "verifiedAt": "2026-11-16",
       "evidence": "https://germanlng.com/ausschreibungen/"
+    },
+    {
+      "id": "clients-elements-green-de",
+      "name": "Elements Green Deutschland GmbH",
+      "country": "Alemania",
+      "sector": "Almacenamiento eléctrico",
+      "contact": "Canal corporativo de compras por cualificar; sin datos personales",
+      "source": "https://elementsgreen.com/news/elements-green-signs-grid-connection-agreement-with-tennet-germany-for-1-6-gwh-stadorf-battery-storage-project/",
+      "status": "Cuenta objetivo potencial; relación comercial no acreditada",
+      "verifiedAt": "2026-11-23",
+      "basis": "Cuenta asociada a proyecto público; país de obra, no inferencia desde un contacto."
+    },
+    {
+      "id": "clients-voltwise",
+      "name": "Voltwise",
+      "country": "Alemania",
+      "sector": "Almacenamiento eléctrico",
+      "contact": "Canal corporativo de compras por cualificar; sin datos personales",
+      "source": "https://www.cliffordchance.com/news/news/2026/11/energy-transition-clifford-chance-advises-voltwise-on-the-financing-of-a-56-mw-battery-storage-project-in-germany.html",
+      "status": "Cuenta objetivo potencial; relación comercial no acreditada",
+      "verifiedAt": "2026-11-23",
+      "basis": "Cuenta asociada a proyecto público; país de obra, no inferencia desde un contacto."
+    },
+    {
+      "id": "clients-nordic-ren-gas",
+      "name": "Nordic Ren-Gas",
+      "country": "Finlandia",
+      "sector": "Hidrógeno / e-metano",
+      "contact": "Canal corporativo de compras por cualificar; sin datos personales",
+      "source": "https://ren-gas.com/news/nordic-ren-gas-tampere-project-becomes-worlds-largest-e-methane-facility-to-reach-final-investment-decision/",
+      "status": "Cuenta objetivo potencial; relación comercial no acreditada",
+      "verifiedAt": "2026-11-23",
+      "basis": "Cuenta asociada a proyecto público; país de obra, no inferencia desde un contacto."
     }
   ],
   "opportunities": [
@@ -267,6 +494,71 @@
       "verifiedAt": "2026-11-16",
       "id": "opportunities-1b868986d9072a15",
       "evidence": "https://germanlng.com/ausschreibungen/"
+    },
+    {
+      "id": "opportunities-versmar-everswinkel",
+      "name": "Cualificar paquetes de Subestación Versmar (Everswinkel)",
+      "country": "Alemania",
+      "client": "Amprion",
+      "value": "",
+      "phase": "Hipótesis de prospección; contratación concreta no acreditada",
+      "owner": "Por asignar",
+      "next": "Seguimiento a largo plazo; no tratar como contratación inmediata.",
+      "source": "https://www.amprion.net/Presse/Presse-Detailseite_102529.html",
+      "verifiedAt": "2026-11-23",
+      "basis": "Inferencia comercial a partir de investigación pública, sin evaluación interna."
+    },
+    {
+      "id": "opportunities-rhein-main-link",
+      "name": "Cualificar paquetes de Rhein-Main-Link",
+      "country": "Alemania",
+      "client": "Amprion",
+      "value": "",
+      "phase": "Hipótesis de prospección; contratación concreta no acreditada",
+      "owner": "Por asignar",
+      "next": "Cualificar necesidades futuras de supervisión de cruces y QA/QC; no oferta abierta confirmada.",
+      "source": "https://www.amprion.net/Presse/Presse-Detailseite_102336.html",
+      "verifiedAt": "2026-11-23",
+      "basis": "Inferencia comercial a partir de investigación pública, sin evaluación interna."
+    },
+    {
+      "id": "opportunities-stadorf-bess",
+      "name": "Cualificar paquetes de BESS Stadorf",
+      "country": "Alemania",
+      "client": "Elements Green Deutschland GmbH",
+      "value": "",
+      "phase": "Hipótesis de prospección; contratación concreta no acreditada",
+      "owner": "Por asignar",
+      "next": "Cualificar paquetes de conexión, supervisión eléctrica y commissioning; confirmar FID y EPC.",
+      "source": "https://elementsgreen.com/news/elements-green-signs-grid-connection-agreement-with-tennet-germany-for-1-6-gwh-stadorf-battery-storage-project/",
+      "verifiedAt": "2026-11-23",
+      "basis": "Inferencia comercial a partir de investigación pública, sin evaluación interna."
+    },
+    {
+      "id": "opportunities-leopoldshoehe-bess",
+      "name": "Cualificar paquetes de BESS Leopoldshöhe",
+      "country": "Alemania",
+      "client": "Voltwise",
+      "value": "",
+      "phase": "Hipótesis de prospección; contratación concreta no acreditada",
+      "owner": "Por asignar",
+      "next": "Verificar con promotor calendario de ejecución, EPC y paquetes de commissioning.",
+      "source": "https://www.cliffordchance.com/news/news/2026/11/energy-transition-clifford-chance-advises-voltwise-on-the-financing-of-a-56-mw-battery-storage-project-in-germany.html",
+      "verifiedAt": "2026-11-23",
+      "basis": "Inferencia comercial a partir de investigación pública, sin evaluación interna."
+    },
+    {
+      "id": "opportunities-tampere-emethane",
+      "name": "Cualificar paquetes de Planta de e-metano Tampere",
+      "country": "Finlandia",
+      "client": "Nordic Ren-Gas",
+      "value": "",
+      "phase": "Hipótesis de prospección; contratación concreta no acreditada",
+      "owner": "Por asignar",
+      "next": "Prioridad de cualificación: identificar EPC y paquetes de montaje, QA/QC y commissioning; no contrato para PCT acreditado.",
+      "source": "https://ren-gas.com/news/nordic-ren-gas-tampere-project-becomes-worlds-largest-e-methane-facility-to-reach-final-investment-decision/",
+      "verifiedAt": "2026-11-23",
+      "basis": "Inferencia comercial a partir de investigación pública, sin evaluación interna."
     }
   ],
   "sources": [
@@ -277,8 +569,8 @@
       "source": "https://www.amprion.net/",
       "frequency": "Semanal",
       "id": "sources-87b3100cc5afffe5",
-      "status": "Proyectos y prensa consultados 16/11/2026; sin hito semanal nuevo acreditado para A-Nord, DolWin4 o BorWin4.",
-      "verifiedAt": "2026-11-16"
+      "status": "Consultados proyectos y prensa; añadidos Versmar y Rhein-Main-Link. Sin cambio semanal de fase acreditado en las 3 obras iniciales de Amprion.",
+      "verifiedAt": "2026-11-23"
     },
     {
       "name": "TenneT Germany · proyectos y comunicados",
@@ -287,8 +579,8 @@
       "source": "https://www.tennet-ir.eu/en",
       "frequency": "Semanal",
       "id": "sources-c4ea99b6552a4e13",
-      "status": "IR consultado 16/11/2026; páginas de compras/proyectos en tennet.eu bloqueadas por robots/restricción de acceso. Sin cobertura completa.",
-      "verifiedAt": "2026-11-16"
+      "status": "IR accesible; proyectos/compras en tennet.eu restringidos. Acuerdo Stadorf contrastado directamente con el promotor.",
+      "verifiedAt": "2026-11-23"
     },
     {
       "name": "German LNG Terminal GmbH · proyectos y comunicados",
@@ -297,8 +589,8 @@
       "source": "https://germanlng.com/unternehmensprofil/",
       "frequency": "Semanal",
       "id": "sources-e4ff8e789e20c0b8",
-      "status": "Perfil, noticias y compras consultados 16/11/2026; no adjudicación semanal concreta acreditada.",
-      "verifiedAt": "2026-11-16"
+      "status": "Perfil y noticias consultados; sin novedad semanal acreditada del terminal terrestre.",
+      "verifiedAt": "2026-11-23"
     },
     {
       "name": "IEA · informes de energía",
@@ -306,9 +598,9 @@
       "kind": "Organismo sectorial",
       "source": "https://www.iea.org/reports",
       "frequency": "Semanal",
-      "status": "Informes consultados 16/11/2026; incorporada publicación 12/11/2026.",
+      "status": "Informes WEO 19/11 y riesgos meteorológicos 18/11 consultados. Publicación del 23/11 fuera del periodo.",
       "id": "sources-db8599a2da098fa9",
-      "verifiedAt": "2026-11-16"
+      "verifiedAt": "2026-11-23"
     },
     {
       "name": "TED · licitaciones europeas",
@@ -316,9 +608,9 @@
       "kind": "Contratación pública",
       "source": "https://ted.europa.eu/",
       "frequency": "Semanal",
-      "status": "Portal y búsquedas dirigidas consultados 16/11/2026; no aviso relevante del periodo validado. No revisión exhaustiva de expedientes.",
+      "status": "Portal y aviso 799180-2026 bloqueados por comprobación antirrobot JavaScript. Soltau detectado en fuentes secundarias, pendiente de validar en el original.",
       "id": "sources-7a44b0e645ddeace",
-      "verifiedAt": "2026-11-16"
+      "verifiedAt": "2026-11-23"
     },
     {
       "id": "sources-h2cast",
@@ -357,8 +649,58 @@
       "kind": "Compras de promotor",
       "source": "https://germanlng.com/ausschreibungen/",
       "frequency": "Semanal",
-      "status": "Ruta DTVP y gestión de obras por CS Gas North verificadas; sin paquete abierto concreto validado.",
-      "verifiedAt": "2026-11-16"
+      "status": "Compras consultadas; se mantiene vía DTVP / CS Gas North. Sin paquete concreto abierto validado.",
+      "verifiedAt": "2026-11-23"
+    },
+    {
+      "id": "sources-elements-green",
+      "name": "Elements Green · Stadorf",
+      "country": "Alemania",
+      "kind": "Promotor",
+      "source": "https://elementsgreen.com/news/elements-green-signs-grid-connection-agreement-with-tennet-germany-for-1-6-gwh-stadorf-battery-storage-project/",
+      "frequency": "Semanal",
+      "status": "Fuente pública primaria consultada 23/11/2026",
+      "verifiedAt": "2026-11-23"
+    },
+    {
+      "id": "sources-ren-gas",
+      "name": "Nordic Ren-Gas · Tampere",
+      "country": "Finlandia",
+      "kind": "Promotor",
+      "source": "https://ren-gas.com/news/nordic-ren-gas-tampere-project-becomes-worlds-largest-e-methane-facility-to-reach-final-investment-decision/",
+      "frequency": "Semanal",
+      "status": "Fuente pública primaria consultada 23/11/2026",
+      "verifiedAt": "2026-11-23"
+    },
+    {
+      "id": "sources-eib",
+      "name": "BEI · financiación Tampere",
+      "country": "Finlandia",
+      "kind": "Financiador público",
+      "source": "https://www.eib.org/en/press/all/2026-428-finnish-renewable-energy-producer-nordic-ren-gas-to-build-e-methane-plant-in-tampere-with-eib-loan-of-eur60-million",
+      "frequency": "Semanal",
+      "status": "Fuente pública primaria consultada 23/11/2026",
+      "verifiedAt": "2026-11-23"
+    },
+    {
+      "id": "sources-ewi",
+      "name": "EWI · Hydrogen Monitor",
+      "country": "Alemania",
+      "kind": "Instituto de investigación",
+      "source": "https://www.ewi.uni-koeln.de/en/aktuelles/elektrolyse-plaene-bis-2030-schrumpfen-um-ein-drittel/",
+      "frequency": "Semanal",
+      "status": "Fuente pública primaria consultada 23/11/2026",
+      "verifiedAt": "2026-11-23"
+    },
+    {
+      "id": "sources-clifford-voltwise",
+      "name": "Clifford Chance · financiación Voltwise",
+      "country": "Alemania",
+      "kind": "Asesor de financiación",
+      "source": "https://www.cliffordchance.com/news/news/2026/11/energy-transition-clifford-chance-advises-voltwise-on-the-financing-of-a-56-mw-battery-storage-project-in-germany.html",
+      "frequency": "Semanal",
+      "status": "Fuente pública primaria consultada 23/11/2026",
+      "verifiedAt": "2026-11-23"
     }
   ],
   "reviews": [
@@ -385,11 +727,26 @@
       "periodStart": "2026-11-09",
       "periodEnd": "2026-11-15",
       "counts": "projects +0/~4; signals +4/~0; competitors +1/~0; clients +0/~1; opportunities +0/~1; sources +4/~5; reviews +1/~0. Actualizaciones incluyen reverificación, no solo cambios materiales."
+    },
+    {
+      "id": "reviews-weekly-2026-11-16-2026-11-22",
+      "name": "Revisión semanal · 16–22/11/2026",
+      "summary": "Cinco proyectos incorporados al radar (cuatro en Alemania, uno en Finlandia) y ocho señales del periodo. Destaca FID financiada de Tampere. Los cuatro proyectos de la base inicial conservan fase. Ningún contrato abierto para PCT validado.",
+      "actions": "Priorizar cualificación de Tampere y BESS; seguimiento de ingeniería del Rhein-Main-Link; Versmar a largo plazo. Validar en original aviso TED 799180-2026 (Soltau) antes de tratarlo como licitación operativa.",
+      "owner": "Vigilancia pública",
+      "source": "https://primitivo-carranza.github.io/pct-intelligence/data/weekly-feed.json",
+      "coverage": "16/11/2026 00:00–22/11/2026 23:59 Europe/Berlin. Revisión previa hasta 15/11 y envío previo comprobados; sin semanas pendientes. Histórico completo por países aún no recuperado.",
+      "status": "Investigación completada con cobertura parcial y límites explícitos",
+      "periodStart": "2026-11-16",
+      "periodEnd": "2026-11-22",
+      "verifiedAt": "2026-11-23",
+      "limitations": "TenneT proyectos/compras restringidos; TED exige verificación JavaScript. Soltau solo pista secundaria excluida de contratos confirmados. Sin señales nuevas de robótica con fuente primaria suficiente; no se repite boletín específico. GeZero (22/10) excluido de novedades semanales. Competidores sin novedades verificadas.",
+      "counts": "projects +5/~4; signals +8/~0; competitors +0/~0; clients +3/~0; opportunities +5/~0; sources +5/~6; reviews +1/~0. Actualizaciones incluyen reverificación."
     }
   ],
   "schemaVersion": 2,
-  "generatedAt": "2026-11-16T07:54:24Z",
+  "generatedAt": "2026-11-23T08:16:08Z",
   "methodology": "Investigación pública primaria de infraestructuras e industria; hechos separados de hipótesis comerciales. Señales breves de inspección industrial sin sustituir el boletín independiente del robo-inspector.",
-  "coverage": "Revisión 09–15/11/2026 (Europe/Berlin), comprobada el 16/11/2026. Alemania: 4 proyectos existentes, sin cambio de fase semanal acreditado. 4 publicaciones nuevas, incluidas señales internacionales y evento tecnológico en Suiza. Cobertura parcial: compras TenneT restringidas y TED no exhaustivo. Base histórica y datos locales conservados; histórico completo por países pendiente.",
+  "coverage": "Semana 16–22/11/2026 Europe/Berlin; verificación 23/11/2026. Alemania y ampliación a Finlandia por FID de Tampere. Cinco proyectos incorporados y ocho señales; cuatro obras iniciales sin cambio de fase acreditado. Sin licitación abierta para PCT validada; TenneT/TED parcialmente inaccesibles. Histórico completo por países pendiente.",
   "historyStatus": "Base pública; no representa el histórico completo de PCT."
 }
